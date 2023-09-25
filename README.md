@@ -5,7 +5,4 @@ Undertaking Home Education(Rishu) in NSW, Australia - **NESA**(NSW Education sta
 
 **Gurukul** is the name given to Rishu's Home Education Initiative. 
 
-_Testing out this text entry0 from Github Desktop_  
-
-_Testing out this text entry1 from Github Desktop_  
-
+Content(s) of this repo is being pushed using **Github Desktop**
