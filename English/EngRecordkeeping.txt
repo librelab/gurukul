@@ -15,6 +15,7 @@ Enlish (Listen, Speech, Read, Write)
  ##Activity
  ##Date/Comment
 
+--------------------------------------------------------
 
  ##Code
  ENE-VOCAB-01
@@ -23,12 +24,16 @@ Enlish (Listen, Speech, Read, Write)
  ##Activity
  ##Date/Comment
 
+--------------------------------------------------------
+
  ##Code
  ENE-PHOAW-01
  ##Outcome
  identifies, blends, segments and manipulates phonological units in spoken words as a strategy for reading and creating texts
  ##Activity
  ##Date/Comment
+
+--------------------------------------------------------
 
  ##Code
  ENE-PRINT-01
@@ -37,6 +42,8 @@ Enlish (Listen, Speech, Read, Write)
  ##Activity
  ##Date/Comment
 
+--------------------------------------------------------
+
  ##Code
  ENE-PHOKW-01
  ##Outcome
@@ -44,19 +51,25 @@ Enlish (Listen, Speech, Read, Write)
  ##Activity
  ##Date/Comment
 
+--------------------------------------------------------
+
  ##Code
  ENE-REFLU-01
  ##Outcome
  reads decodable texts aloud with automaticity
  ##Activity
  ##Date/Comment
- 
+
+--------------------------------------------------------
+
  ##Code
  ENE-RECOM-01
  ##Outcome
  comprehends independently read texts using background knowledge, word knowledge and understanding of how sentences connect
  ##Activity
  ##Date/Comment
+
+--------------------------------------------------------
  
  ##Code
  ENE-CWT-01
@@ -64,6 +77,8 @@ Enlish (Listen, Speech, Read, Write)
  creates written texts that includes at least 2 related ideas and correct simple sentences 
  ##Activity
  ##Date/Comment
+
+--------------------------------------------------------
  
  ##Code
  ENE-SPELL-01
@@ -71,6 +86,8 @@ Enlish (Listen, Speech, Read, Write)
  applies phonological, orthographic and morphological generalizations and strategies to spell taught and high-frequency words when creating texts
  ##Activity
  ##Date/Comment
+
+--------------------------------------------------------
  
  ##Code
  ENE-HANDW-01
@@ -78,6 +95,8 @@ Enlish (Listen, Speech, Read, Write)
  produces all lower-case and upper-case letters to create texts
  ##Activity
  ##Date/Comment
+
+--------------------------------------------------------
  
  ##Code
  ENE-UARL-01
