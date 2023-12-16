@@ -4,3 +4,70 @@
  ##Outcome
  ##Activity
  ##Date/Comment
+ 
+  ===================================================
+  
+Science
+
+ ##Code
+ STe-1WS-S 
+ ##Outcome
+ observes, questions and collects data to communicate ideas 
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ STe-2DP-T
+ ##Outcome
+ develops solutions to an identified need 
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ STe-3LW-ST 
+ ##Outcome
+ explores the characteristics, needs and uses of living things 
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ STe-4MW-ST 
+ ##Outcome
+ identifies that objects are made of materials that have observable properties 
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ STe-5PW-ST
+ ##Outcome
+ observes the way objects move and relates changes in motion to push and pull forces 
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ STe-6ES-S 
+ ##Outcome
+ identifies how daily and seasonal changes in the environment affect humans and other living things 
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ STe-7DI-T
+ ##Outcome
+ identifies digital system and explores how instructions are used to control digital devices
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
