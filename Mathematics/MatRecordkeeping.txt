@@ -6,3 +6,132 @@
  ##Date/Comment
  
   ===================================================
+  
+Mathematics
+
+ ##Code
+ MAO-WM-01
+ ##Outcome
+ develops understanding and fluency in mathematics through exploring and connecting mathematical concepts, choosing and applying mathematical techniques to solve problems, and communicating their thinking and reasoning coherently and clearly
+ ##Activity
+ ##Date/Comment
+ 
+-------------------------------------------------------- 
+
+ ##Code
+ MAE-RWN-01
+ ##Outcome
+ demonstrates an understanding of how whole numbers indicate quantity
+ ##Activity
+ ##Date/Comment
+ 
+-------------------------------------------------------- 
+
+ ##Code
+ MAE-RWN-02
+ ##Outcome
+ reads numerals and represents whole numbers to atleast 20
+ ##Activity
+ ##Date/Comment
+ 
+-------------------------------------------------------- 
+
+ ##Code
+ MAE-CSQ-02
+ ##Outcome
+ reasons about number  relations to model addition and subtraction by combining and separating and comparing collections
+ ##Activity
+ ##Date/Comment
+ 
+-------------------------------------------------------- 
+
+ ##Code
+ MAE-GM-01
+ ##Outcome
+ describes position and gives and follows simple directions
+ ##Activity
+ ##Date/Comment
+ 
+-------------------------------------------------------- 
+
+ ##Code
+ MAE-GM-02
+ ##Outcome
+ describes and compares lengths
+ ##Activity
+ ##Date/Comment
+ 
+-------------------------------------------------------- 
+
+ ##Code
+ MAE-GM-03
+ ##Outcome
+ identifies half the length and the halfway point
+ ##Activity
+ ##Date/Comment
+ 
+-------------------------------------------------------- 
+
+ ##Code
+ MAE-2DS-01
+ ##Outcome
+ sorts, describes, names and makes two-dimensional shapes, including triangle, circles, squares and rectangles
+ ##Activity
+ ##Date/Comment
+ 
+-------------------------------------------------------- 
+
+ ##Code
+ MAE-2DS-02
+ ##Outcome
+ describes and compares areas of similar shapes
+ ##Activity
+ ##Date/Comment
+ 
+-------------------------------------------------------- 
+
+ ##Code
+ MAE-3DS-01
+ ##Outcome
+ manipulates, describes and sorts three-dimensional objects
+ ##Activity
+ ##Date/Comment
+ 
+-------------------------------------------------------- 
+
+ ##Code
+ MAE-3DS-02
+ ##Outcome
+ describes and compares volumes
+ ##Activity
+ ##Date/Comment
+ 
+-------------------------------------------------------- 
+
+ ##Code
+ MAE-NSM-01
+ ##Outcome
+ describes and compares the masses of objects
+ ##Activity
+ ##Date/Comment
+ 
+-------------------------------------------------------- 
+
+ ##Code
+ MAE-NSM-02
+ ##Outcome
+ sequences events and reads hour time on clocks
+ ##Activity
+ ##Date/Comment
+ 
+-------------------------------------------------------- 
+
+ ##Code
+ MAE-DATA-01
+ ##Outcome
+ contributes to collecting data and interprets data displays made from objects
+ ##Activity
+ ##Date/Comment
+ 
+-------------------------------------------------------- 
+
