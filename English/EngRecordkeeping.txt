@@ -6,3 +6,82 @@
  ##Date/Comment
  
   ===================================================
+Enlish (Listen, Speech, Read, Write) 
+ 
+ ##Code
+ ENE-OLC-01
+ ##Outcome
+ communicates effectively by using interpersonal conventions and language with familiar peers and adults
+ ##Activity
+ ##Date/Comment
+
+
+ ##Code
+ ENE-VOCAB-01
+ ##Outcome
+ understands and effectively uses Tier 1 words and Tier 2 words in familiar contexts
+ ##Activity
+ ##Date/Comment
+
+ ##Code
+ ENE-PHOAW-01
+ ##Outcome
+ identifies, blends, segments and manipulates phonological units in spoken words as a strategy for reading and creating texts
+ ##Activity
+ ##Date/Comment
+
+ ##Code
+ ENE-PRINT-01
+ ##Outcome
+ tracks written text from left to right and from top to bottom of the page and identifies visual and spatial features of print.
+ ##Activity
+ ##Date/Comment
+
+ ##Code
+ ENE-PHOKW-01
+ ##Outcome
+ uses single-letter grapheme-phoneme correspondences and common digraphs to decode and encode words when reading and creating texts 
+ ##Activity
+ ##Date/Comment
+
+ ##Code
+ ENE-REFLU-01
+ ##Outcome
+ reads decodable texts aloud with automaticity
+ ##Activity
+ ##Date/Comment
+ 
+ ##Code
+ ENE-RECOM-01
+ ##Outcome
+ comprehends independently read texts using background knowledge, word knowledge and understanding of how sentences connect
+ ##Activity
+ ##Date/Comment
+ 
+ ##Code
+ ENE-CWT-01
+ ##Outcome
+ creates written texts that includes at least 2 related ideas and correct simple sentences 
+ ##Activity
+ ##Date/Comment
+ 
+ ##Code
+ ENE-SPELL-01
+ ##Outcome
+ applies phonological, orthographic and morphological generalizations and strategies to spell taught and high-frequency words when creating texts
+ ##Activity
+ ##Date/Comment
+ 
+ ##Code
+ ENE-HANDW-01
+ ##Outcome
+ produces all lower-case and upper-case letters to create texts
+ ##Activity
+ ##Date/Comment
+ 
+ ##Code
+ ENE-UARL-01
+ ##Outcome
+ understands and responds to literature read to them
+ ##Activity
+ ##Date/Comment
