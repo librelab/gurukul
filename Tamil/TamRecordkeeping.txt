@@ -4,3 +4,34 @@
  ##Outcome
  ##Activity
  ##Date/Comment
+ 
+ ===================================================
+ 
+Modern languages (Tamil)
+
+ ##Code
+ MLE-INT-01
+ ##Outcome
+ exchanges meaning through play and actions by reproducing culturally appropriate modelled language
+ ##Activity
+ ##Date/Comment
+ 
+-----------------------------------------------------
+
+ ##Code
+ MLE-UND-01
+ ##Outcome
+ responds to information in simple texts in a variety of ways to demonstrate understanding
+ ##Activity
+ ##Date/Comment
+ 
+-----------------------------------------------------
+
+ ##Code
+ MLE-CRT-01
+ ##Outcome
+ creates simple texts by reproducing culturally appropriate modelled vocabulary
+ ##Activity
+ ##Date/Comment
+ 
+-----------------------------------------------------
