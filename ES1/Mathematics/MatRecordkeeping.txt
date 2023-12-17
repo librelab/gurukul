@@ -37,9 +37,36 @@ Mathematics
 -------------------------------------------------------- 
 
  ##Code
- MAE-CSQ-02
+ MAE-CSQ-01
  ##Outcome
  reasons about number  relations to model addition and subtraction by combining and separating and comparing collections
+ ##Activity
+ ##Date/Comment
+ 
+-------------------------------------------------------- 
+
+ ##Code
+ MAE-CSQ-02
+ ##Outcome
+ represents the relations between the parts that form the whole, with numbers up to 10
+ ##Activity
+ ##Date/Comment
+ 
+-------------------------------------------------------- 
+
+ ##Code
+ MAE-FG-01
+ ##Outcome
+ recognises, describes and continues repeating patterns
+ ##Activity
+ ##Date/Comment
+ 
+--------------------------------------------------------
+
+ ##Code
+ MAE-FG-02
+ ##Outcome
+ forms equal groups by sharing and counting collections of objects
  ##Activity
  ##Date/Comment
  
