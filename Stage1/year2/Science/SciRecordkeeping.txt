@@ -1,0 +1,110 @@
+ # Science Activity Outcome Date and comments
+ 
+ ##Code
+ ##Outcome
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+Enlish stage 1 - year 1
+
+
+ ##Code
+ ST1-1WS-S 
+ ##Outcome
+ observes, questions and collects data to communicate and compare ideas
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ ST1-2DP-T
+ ##Outcome
+ uses materials, tools and equipment to develop solutions for a need or opportunity
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ ST1-3DP-T
+ ##Outcome
+ describes, follows and represents algorithm to solve problems
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ ST1-4LW-S 
+ ##Outcome
+ describes observable features of living things and their environments 
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ ST1-5LW-T
+ ##Outcome
+ identifies how plants and animals are used for food and fibre products 
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ ST1-6MS-S 
+ ##Outcome
+ identifies that materials can be changed or combined 
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ ST1-7MW-T
+ ##Outcome
+ describes how the properties of materials determine their use 
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ ST1-8PW-S 
+ ##Outcome
+ describes common forms of energy and explores some characteristics of sound energy
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ ST1-9PW-ST
+ ##Outcome
+ investigates how forces and energy are used in products
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ ST1-10ES-S 
+ ##Outcome
+ recognises observable changes occurring in the sky and on the land and identifies Earth's resources 
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ ST1-11DI-T
+ ##Outcome
+ identifies the components of digital systems and explores how data is represented
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
