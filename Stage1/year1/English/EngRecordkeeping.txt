@@ -1,0 +1,91 @@
+ # English Activity Outcome Date and comments
+ 
+ ##Code
+ ##Outcome
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+English
+
+ ##Code
+ EN1-OLC-01
+ ##Outcome
+ communicates effectively by using interpersonal conventions and language to extend and elaborate ideas for social and learning interactions
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ EN1-VOCAB-01
+ ##Outcome
+ understands and effectively uses Tier 1, taught Tier 2 and Tier 3 vocabulary to extend and elaborate ideas 
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ EN1-PHOKW-01
+ ##Outcome
+ uses initial and extended phonics, including vowel digraphs, trigraphs to decode and encode words when reading and creating texts
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ EN1-REFLUE-01
+ ##Outcome
+ sustains reading unseen texts with automaticity and prosody and self-corrects errors
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ EN1-RECOM-01
+ ##Outcome
+ comprehends independently read texts that require sustained reading by activating background and word knowledge, connecting and understanding sentences and whole text, and monitoring for meaning
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ EN1-CWT-01
+ ##Outcome
+ plans, creates and revises texts written for different purposes, including paragraphs, using knowledge of vocabulary, text features and sentence structure
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ EN1-SPELL-01
+ ##Outcome
+ applies phonological, orthographic and morphological generalisations and strategies when spelling words in a range of writing contexts
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ EN1-HANDW-01
+ ##Outcome
+ uses a legible, fluent and automatic handwriting style, and digital technology, including word-processing applications, when creating texts
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
+
+ ##Code
+ EN1-UARL-01
+ ##Outcome
+ understands and responds to literature by creating texts using similar structures, intentional language choices and features appropriateo audience and purpose 
+ ##Activity
+ ##Date/Comment
+ 
+------------------------------------------------------
