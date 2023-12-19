@@ -6,3 +6,157 @@
  ##Date/Comment
  
   ===================================================
+ 
+ Mathematics(Stage 1 - Year1)
+
+ ##Code
+ MAO-WM-01
+ ##Outcome
+ develops understanding and fluency in mathematics through exploring and connecting mathematical concepts, choosing and applying mathematical techniques to solve problems, and communicating their thinking and reasoning coherently and clearly
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+ ##Code
+ MA1-RWN-01
+ ##Outcome
+ applies an understanding of place value and the role of zero to read, write and order two- and three-digit numbers
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+ ##Code
+ MA1-RWN-02
+ ##Outcome
+ reasons about representatios of whole numbers to 1000, partitioning numbers to use and record quantity values
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+ ##Code
+ MA1-CSQ-01
+ ##Outcome
+ uses number bonds and the relationship between addition and subtraction to solve problems involving partitioning
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+ ##Code
+ MA1-FG-01
+ ##Outcome
+ uses the structure of equal groups to solve multiplication problems and shares or groups to solve division problems
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+ ##Code
+ MA1-GM-01
+ ##Outcome
+ represents and describes the positions of objects in familiar locations 
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+ ##Code
+ MA1-GM-02
+ ##Outcome
+ measures, records, compares and estimates lengths and distances using uniform informal units, as well as metres and centimetres
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+ ##Code
+ MA1-GM-03
+ ##Outcome
+ creates and recognises halves, quarters and eighths as part measures of a whole length
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+ ##Code
+ MA1-2DS-01
+ ##Outcome
+ recognises, describes and represents shapes including quadrilaterals and other common polygons
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+ ##Code
+ MA1-2DS-02
+ ##Outcome
+ measures and compares areas usig uniform informal units in rows and columns
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+ ##Code
+ MA1-3DS-01
+ ##Outcome
+ recognises, describes and represents familiar three-dimensional objects
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+ ##Code
+ MA1-3DS-02
+ ##Outcome
+ measures, records, compares and estimates internal volumes (capacities) and volumes using uniform informal units
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+ ##Code
+ MA1-NSM-01
+ ##Outcome
+ measures, records, compares and estimates the masses of objects using uniform informal units
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+ ##Code
+ MA1-NSM-02
+ ##Outcome
+ describes, compares and orders durations of events and reads half and quarter-hour time 
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+ ##Code
+ MA1-DATA-01
+ ##Outcome
+ gathers and organises data, displays data in lists, tables and picture graphs
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+ ##Code
+ MA1-DATA-02
+ ##Outcome
+ reasons about representations of data to describe and interpret the results
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+ ##Code
+ MA1-CHAN-01
+ ##Outcome
+ recognises and describes the element of chance in everyday events
+ ##Activity
+ ##Date/Comment
+ 
