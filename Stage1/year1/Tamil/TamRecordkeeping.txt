@@ -1,0 +1,37 @@
+ # Tamil Activity Outcome Date and comments
+ 
+ ##Code
+ ##Outcome
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+Modern Languages - Tamil - Stage 1 - year 1
+
+ ##Code
+ ML1-INT-01
+ ##Outcome
+ exchanges meaning by selecting culturally appropriate modelled language
+ ##Activity
+ ##Date/Comment
+
+------------------------------------------------------
+
+ ##Code
+ ML1-UND-01
+ ##Outcome
+ recognises and responds to information in simple texts to demonstrate understanding
+ ##Activity
+ ##Date/Comment
+
+------------------------------------------------------
+
+ ##Code
+ ML1-CRT-01
+ ##Outcome
+ create simple texts by selecting culturally appropriate modelled language
+ ##Activity
+ ##Date/Comment
+
+------------------------------------------------------
