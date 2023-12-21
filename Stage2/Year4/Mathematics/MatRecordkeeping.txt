@@ -1,0 +1,201 @@
+ # Mathematics Activity Outcome Date and comments
+ 
+ ##Code
+ ##Outcome
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+Mathematics - stage 2 - Year 4
+
+ ##Code
+ MAO-WM-01
+ ##Outcome
+ develops understanding and fluency in mathematics through exploring and connecting mathematical concepts, choosing and applying mathematical techniques to solve problems, and communicating their thinking and reasoning coherently and clearly
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+
+ ##Code
+ MA2-RN-01
+ ##Outcome
+ applies an understanding of place value and the role of zero to represent numbers to at least tens of thousands
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-RN-02
+ ##Outcome
+ represents and compares decimals up to 2 decimal places using place value
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-AR-01
+ ##Outcome
+ selects and uses mental and written strategies for addition and subtraction involving 2- and 3-digit numbers
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-AR-02
+ ##Outcome
+ completes number sentences involving addition and subtraction by finding missing values
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-MR-01
+ ##Outcome
+ represents and uses the structure of multiplicative relations to 10 × 10 to solve problems
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-MR-02
+ ##Outcome
+ completes number sentences involving multiplication and division by finding missing values
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-PF-01
+ ##Outcome
+ represents and compares halves, quarters, thirds and fifths as lengths on a number line and their related fractions formed by halving (eighths, sixths and tenths)
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-GM-01
+ ##Outcome
+ uses grid maps and directional language to locate positions and follow routes
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-GM-02
+ ##Outcome
+ measures and estimates lengths in metres, centimetres and millimetres
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-GM-03
+ ##Outcome
+ identifies angles and classifies them by comparing to a right angle
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-2DS-01
+ ##Outcome
+ compares two-dimensional shapes and describes their features
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-2DS-02
+ ##Outcome
+ performs transformations by combining and splitting two-dimensional shapes
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-2DS-03
+ ##Outcome
+ estimates, measures and compares areas using square centimetres and square metres
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-3DS-01
+ ##Outcome
+ makes and sketches models and nets of three-dimensional objects including prisms and pyramids
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-3DS-02
+ ##Outcome
+ estimates, measures and compares capacities (internal volumes) using litres, millilitres and volumes using cubic centimetres
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-NSM-01
+ ##Outcome
+ estimates, measures and compares the masses of objects using kilograms and grams
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-NSM-02
+ ##Outcome
+ represents and interprets analog and digital time in hours, minutes and seconds
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-DATA-01
+ ##Outcome
+ collects discrete data and constructs graphs using a given scale
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-DATA-02
+ ##Outcome
+ interprets data in tables, dot plots and column graphs
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ MA2-CHAN-01
+ ##Outcome
+ records and compares the results of chance experiments
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ 
