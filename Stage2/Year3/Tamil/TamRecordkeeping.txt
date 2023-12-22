@@ -10,7 +10,27 @@
 Tamil - stage 2 - Year 3
 
  ##Code
+ ML2-INT-01
  ##Outcome
+ exchanges information in familiar contexts by selecting culturally appropriate modelled language
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ML2-UND-01
+ ##Outcome
+ identifies and responds to information in texts to demonstrate understanding
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ML2-CRT-01
+ ##Outcome
+ creates texts for familiar communicative purposes by selecting culturally appropriate modelled language
  ##Activity
  ##Date/Comment
  
