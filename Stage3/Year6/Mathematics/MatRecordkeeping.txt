@@ -1,0 +1,208 @@
+# Mathematics Activity Outcome Date and comments
+ 
+ ##Code
+ ##Outcome
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+ Mathematics - Stage 3 - Year 5
+ 
+ ##Code
+ MAO-WM-01 Working mathematically
+ ##Outcome
+ develops understanding and fluency in mathematics through exploring and connecting mathematical concepts, choosing and applying mathematical techniques to solve problems, and communicating their thinking and reasoning coherently and clearly
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-RN-01
+ ##Outcome
+ applies an understanding of place value and the role of zero to represent the properties of numbers
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-RN-02
+ ##Outcome
+ compares and orders decimals up to 3 decimal places
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-RN-03
+ ##Outcome
+ determines percentages of quantities, and finds equivalent fractions and decimals for benchmark percentage values
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-AR-01
+ ##Outcome
+ selects and applies appropriate strategies to solve addition and subtraction problems
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-MR-01
+ ##Outcome
+ selects and applies appropriate strategies to solve multiplication and division problems
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-MR-02
+ ##Outcome
+ constructs and completes number sentences involving multiplicative relations, applying the order of operations to calculations
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-RQF-01
+ ##Outcome
+ compares and orders fractions with denominators of 2, 3, 4, 5, 6, 8 and 10
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-RQF-02
+ ##Outcome
+ determines 1/2,1/4,1/5 and 1/10 of measures and quantities
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-GM-01 
+ ##Outcome
+ locates and describes points on a coordinate plane
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-GM-02
+ ##Outcome
+ selects and uses the appropriate unit and device to measure lengths and distances including perimeters
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-GM-03
+ ##Outcome
+ measures and constructs angles, and identifies the relationships between angles on a straight line and angles at a point
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-2DS-01
+ ##Outcome
+ investigates and classifies two-dimensional shapes, including triangles and quadrilaterals based on their properties
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-2DS-02
+ ##Outcome
+ selects and uses the appropriate unit to calculate areas, including areas of rectangles
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-2DS-03
+ ##Outcome
+ combines, splits and rearranges shapes to determine the area of parallelograms and triangles
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-3DS-01
+ ##Outcome
+ visualises, sketches and constructs three-dimensional objects, including prisms and pyramids, making connections to two-dimensional representations
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-3DS-02
+ ##Outcome
+ selects and uses the appropriate unit to estimate, measure and calculate volumes and capacities
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-NSM-01
+ ##Outcome
+ selects and uses the appropriate unit and device to measure the masses of objects
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-NSM-02
+ ##Outcome
+ measures and compares duration, using 12- and 24-hour time and am and pm notation
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-DATA-01
+ ##Outcome
+ constructs graphs using many-to-one scales
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-DATA-02
+ ##Outcome
+ interprets data displays, including timelines and line graphs
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
+ 
+ ##Code
+ MA3-CHAN-01
+ ##Outcome
+ conducts chance experiments and quantifies the probability
+ ##Activity
+ ##Date/Comment
+ 
+ -------------------------------------------------------
