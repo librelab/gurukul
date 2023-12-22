@@ -10,7 +10,99 @@
 Science - stage 2 - Year 3
 
  ##Code
+ ST2-1WS-S
  ##Outcome
+ questions, plans and conducts scientific investigations, collects and summarises data and communicates using scientific representations
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST2-2DP-T
+ ##Outcome
+ selects and uses materials, tools and equipment to develop solutions for a need or opportunity
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST2-3DP-T
+ ##Outcome
+ defines problems, describes and follows algorithms to develop solutions
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST2-4LW-S
+ ##Outcome
+ compares features and characteristics of living and non-living things
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST2-5LW-T
+ ##Outcome
+ describes how agricultural processes are used to grow plants and raise animals for food, clothing and shelter
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST2-6MW-S
+ ##Outcome
+ describes how adding or removing heat causes a change of state
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST2-7MW-T
+ ##Outcome
+ investigates the suitability of natural and processed materials for a range of purposes
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST2-8PW-ST
+ ##Outcome
+ describes the characteristics and effects of common forms of energy, such as light and heat
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST2-9PW-ST
+ ##Outcome
+ describes how contact and non-contact forces affect an object’s motion
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST2-10ES-S
+ ##Outcome
+ investigates regular changes caused by interactions between the Earth and the Sun, and changes to the Earth’s surface
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST2-11DI-T
+ ##Outcome
+ describes how digital systems represent and transmit data
  ##Activity
  ##Date/Comment
  
