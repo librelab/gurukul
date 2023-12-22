@@ -1,0 +1,109 @@
+# Science Activity Outcome Date and comments
+ 
+ ##Code
+ ##Outcome
+ ##Activity
+ ##Date/Comment
+ 
+  ===================================================
+
+Science - Stage 3 - Year 6
+
+ ##Code
+ ST3-1WS-S
+ ##Outcome
+ plans and conducts scientific investigations to answer testable questions, and collects and summarises data to communicate conclusions
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST3-2DP-T
+ ##Outcome
+ plans and uses materials, tools and equipment to develop solutions for a need or opportunity
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST3-3DP-T
+ ##Outcome
+ defines problems, and designs, modifies and follows algorithms to develop solutions
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST3-4LW-S
+ ##Outcome
+ examines how the environment affects the growth, survival and adaptation of living things
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST3-5LW-T
+ ##Outcome
+ explains how food and fibre are produced sustainably in managed environments for health and nutrition
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST3-6MW-S
+ ##Outcome
+ explains the effect of heat on the properties and behaviour of materials
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST3-7MW-T
+ ##Outcome
+ explains how the properties of materials determines their use for a range of purposes
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST3-8PW-ST
+ ##Outcome
+ explains how energy is transformed from one form to another
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST3-9PW-ST
+ ##Outcome
+ investigates the effects of increasing or decreasing the strength of a specific contact or non-contact force
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST3-10ES-S
+ ##Outcome
+ explains regular events in the solar system and geological events on the Earth’s surface
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
+ 
+ ##Code
+ ST3-11DI-T
+ ##Outcome
+ explains how digital systems represent data, connect together to form networks and transmit data
+ ##Activity
+ ##Date/Comment
+ 
+ ----------------------------------------------------
