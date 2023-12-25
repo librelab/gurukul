@@ -55,11 +55,5 @@ Simple flow chart Sample
 ```mermaid
 graph TD;
 	A-->H;
-	Primary-->Early Stage 1;
-	Primary-->Stage 1;
-	Primary-->Stage 2;
-	Primary-->Stage 3;
-	Secondary-->Stage 4;
-	Secondary-->Stage 5;
-	Senior-->Stage 6;
+	Primary-->(Early Stage 1);
 ```
