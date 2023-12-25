@@ -91,18 +91,13 @@ classDiagram
       -int sizeInFeet
       -canEat()
     }
-	Senior <|-- Stage4
-    Senior <|-- Stage5
-    Senior : From 7
-    Senior : To 10
+	Senior <|-- Stage6
+    Senior : From 11
+    Senior : To 12
     Senior: ListOf(KLA)
-    class Stage4{
+    class Stage6{
       +String beakColor
       +swim()
       +quack()
-    }
-    class Stage5{
-      -int sizeInFeet
-      -canEat()
     }
 ```
