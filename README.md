@@ -57,23 +57,23 @@ Simple flow chart Sample
 title: Stage Diagram
 ---
 classDiagram
-    Animal <|-- Duck
-    Animal <|-- Fish
-    Animal <|-- Zebra
-    Animal : +int age
-    Animal : +String gender
-    Animal: +isMammal()
-    Animal: +mate()
-    class Duck{
+    Primary <|-- ES1
+    Primary <|-- Stage1
+    Primary <|-- Stage2
+    Primary : +int age
+    Primary : +String gender
+    Primary: +isMammal()
+    Primary: +mate()
+    class ES1{
       +String beakColor
       +swim()
       +quack()
     }
-    class Fish{
+    class Stage1{
       -int sizeInFeet
       -canEat()
     }
-    class Zebra{
+    class Stage2{
       +bool is_wild
       +run()
     }	
