@@ -62,8 +62,7 @@ classDiagram
     Primary <|-- Stage2
     Primary : From K
     Primary : To 6
-    Primary: +isMammal()
-    Primary: +mate()
+    Primary: listOf(KLA)
     class Early Stage1{
       +String beakColor
       +swim()
