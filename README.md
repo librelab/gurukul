@@ -60,6 +60,7 @@ classDiagram
     Primary <|-- Early Stage1
     Primary <|-- Stage1
     Primary <|-- Stage2
+	Primary <|-- Stage2
     Primary : From K
     Primary : To 6
     Primary: ListOf(KLA)
@@ -90,12 +91,4 @@ classDiagram
       -int sizeInFeet
       -canEat()
     }
-	Senior <|-- Stage5
-	Senior : From 11
-	Senior : To 12
-	Senior : ListOf(KLA)
-	Class Stage5{
-	  -int sizeInFeet
-      -canEat()
-	}
 ```
