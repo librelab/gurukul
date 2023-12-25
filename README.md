@@ -60,7 +60,7 @@ classDiagram
     Primary <|-- Early Stage1
     Primary <|-- Stage1
     Primary <|-- Stage2
-	Primary <|-- Stage2
+	Primary <|-- Stage3
     Primary : From K
     Primary : To 6
     Primary: ListOf(KLA)
@@ -77,17 +77,17 @@ classDiagram
       +bool is_wild
       +run()
     }	
-	Secondary <|-- Stage3
-    Secondary <|-- Stage4
+	Secondary <|-- Stage4
+    Secondary <|-- Stage5
     Secondary : From 7
     Secondary : To 10
     Secondary: ListOf(KLA)
-    class Stage3{
+    class Stage4{
       +String beakColor
       +swim()
       +quack()
     }
-    class Stage4{
+    class Stage5{
       -int sizeInFeet
       -canEat()
     }
