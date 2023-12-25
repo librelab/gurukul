@@ -86,7 +86,7 @@ classDiagram
       +swim()
       +quack()
     }
-    class Stage5{
+    class Stage4{
       -int sizeInFeet
       -canEat()
     }
