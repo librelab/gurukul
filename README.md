@@ -57,14 +57,14 @@ Simple flow chart Sample
 title: Stage Diagram
 ---
 classDiagram
-    Primary --|> ES1
+    Primary <|-- Early Stage1
     Primary <|-- Stage1
     Primary <|-- Stage2
     Primary : +int age
     Primary : +String gender
     Primary: +isMammal()
     Primary: +mate()
-    class ES1{
+    class Eearly Stage1{
       +String beakColor
       +swim()
       +quack()
