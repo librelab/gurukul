@@ -57,7 +57,7 @@ Simple flow chart Sample
 title: Stage Diagram
 ---
 classDiagram
-    Primary <|-- ES1
+    Primary --|> ES1
     Primary <|-- Stage1
     Primary <|-- Stage2
     Primary : +int age
