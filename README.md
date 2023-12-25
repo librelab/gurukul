@@ -42,6 +42,9 @@ NESA (NSW Education Standards Authority)
 _https://education.nsw.gov.au/teaching-and-learning/curriculum/leading-curriculum-k-12/explaining-curriculum-pcc_
 _https://www.facebook.com/groups/homeeducationnsw_
 
+Primary(k - 6)
+Secondary(7 - 10)
+Senior(11 - 12)
 
 # Flow Chart
 
@@ -52,12 +55,11 @@ Simple flow chart Sample
 ```mermaid
 graph TD;
 	A-->H;
-	
-	Primary(k - 6) --> Early Stage 1;
-	Primary(k - 6) --> Stage 1;
-	Primary(k - 6) --> Stage 2;
-	Primary(k - 6) --> Stage 3;
-	Secondary(7 - 10) --> Stage 4;
-	Secondary(7 - 10) --> Stage 5;
-	Senior(11 - 12) --> Stage 6;
+	Primary-->Early Stage 1;
+	Primary(k - 6)-->Stage 1;
+	Primary(k - 6)-->Stage 2;
+	Primary(k - 6)-->Stage 3;
+	Secondary(7 - 10)-->Stage 4;
+	Secondary(7 - 10)-->Stage 5;
+	Senior(11 - 12)-->Stage 6;
 ```
