@@ -77,7 +77,8 @@ classDiagram
       +bool is_wild
       +run()
     }
-	
+
+classDiagram	
 	Animal <|-- Duck
     Animal <|-- Fish
     Animal <|-- Zebra
