@@ -62,7 +62,7 @@ classDiagram
     Primary <|-- Stage2
     Primary : From K
     Primary : To 6
-    Primary: listOf(KLA)
+    Primary: ListOf(KLA)
     class Early Stage1{
       +String beakColor
       +swim()
@@ -76,24 +76,18 @@ classDiagram
       +bool is_wild
       +run()
     }	
-	AAnimal <|-- Duck
-    AAnimal <|-- Fish
-    AAnimal <|-- Zebra
-    AAnimal : +int age
-    AAnimal : +String gender
-    AAnimal: +isMammal()
-    AAnimal: +mate()
-    class Duck{
+	Secondary <|-- Stage3
+    Secondary <|-- Stage4
+    Secondary : From 7
+    Secondary : To 10
+    Secondary: ListOf(KLA)
+    class Stage3{
       +String beakColor
       +swim()
       +quack()
     }
-    class Fish{
+    class Stage5{
       -int sizeInFeet
       -canEat()
-    }
-    class Zebra{
-      +bool is_wild
-      +run()
     }
 ```
