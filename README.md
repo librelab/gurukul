@@ -90,4 +90,12 @@ classDiagram
       -int sizeInFeet
       -canEat()
     }
+	Senior <|-- Stage5
+	Senior : From 11
+	Senior : To 12
+	Senior : ListOf(KLA)
+	Class Stage5{
+	  -int sizeInFeet
+      -canEat()
+	}
 ```
