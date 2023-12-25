@@ -60,11 +60,11 @@ classDiagram
     Primary <|-- Early Stage1
     Primary <|-- Stage1
     Primary <|-- Stage2
-    Primary : +int age
-    Primary : +String gender
+    Primary : From K
+    Primary : To 6
     Primary: +isMammal()
     Primary: +mate()
-    class Eearly Stage1{
+    class Early Stage1{
       +String beakColor
       +swim()
       +quack()
