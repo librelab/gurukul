@@ -53,14 +53,9 @@ Simple flow chart Sample
 ## Mermaid
 
 ```mermaid
-graph TD;
-	A[Primary]-->B((Early));
-	
-	Animal <|-- Duck;
-    Animal <|-- Fish;
-    Animal <|-- Zebra;
-    Animal : +int age;
-    Animal : +String gender;
-    Animal: +isMammal();
-    Animal: +mate();
+---
+title: Node
+---
+flowchart LR
+    id
 ```
