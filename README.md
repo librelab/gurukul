@@ -54,5 +54,5 @@ Simple flow chart Sample
 
 ```mermaid
 graph TD;
-	A[Primary]-->B(Early);
+	A[Primary]-->B((Early));
 ```
