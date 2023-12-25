@@ -55,5 +55,5 @@ Simple flow chart Sample
 ```mermaid
 graph TD;
 	A-->H;
-	Primary-->(Early Stage 1);
+	Primary-->(Early);
 ```
