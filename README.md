@@ -65,39 +65,46 @@ classDiagram
     Primary : To 6
     Primary: ListOf(KLA)
     class Early Stage1{
-      +String beakColor
-      +swim()
-      +quack()
+      Kindergarten
+      List(KLA)
     }
     class Stage1{
-      -int sizeInFeet
-      -canEat()
+      Year 1
+	  Year 2
+      List(KLA)
     }
     class Stage2{
-      +bool is_wild
-      +run()
-    }	
+      Year 3
+	  Year 4
+      List(KLA)
+    }
+	class Stage3{
+      Year 5
+	  Year 6
+      List(KLA)
+    }
 	Secondary <|-- Stage4
     Secondary <|-- Stage5
     Secondary : From 7
     Secondary : To 10
     Secondary: ListOf(KLA)
     class Stage4{
-      +String beakColor
-      +swim()
-      +quack()
+      Year 7
+	  Year 8
+      List(KLA)
     }
     class Stage5{
-      -int sizeInFeet
-      -canEat()
+      Year 9
+	  Year 10
+      List(KLA)
     }
 	Senior <|-- Stage6
     Senior : From 11
     Senior : To 12
     Senior: ListOf(KLA)
     class Stage6{
-      +String beakColor
-      +swim()
-      +quack()
+      Year 11
+	  Year 12
+      List(KLA)
     }
 ```
