@@ -76,16 +76,14 @@ classDiagram
     class Zebra{
       +bool is_wild
       +run()
-    }
-
-classDiagram	
-	Animal <|-- Duck
-    Animal <|-- Fish
-    Animal <|-- Zebra
-    Animal : +int age
-    Animal : +String gender
-    Animal: +isMammal()
-    Animal: +mate()
+    }	
+	AAnimal <|-- Duck
+    AAnimal <|-- Fish
+    AAnimal <|-- Zebra
+    AAnimal : +int age
+    AAnimal : +String gender
+    AAnimal: +isMammal()
+    AAnimal: +mate()
     class Duck{
       +String beakColor
       +swim()
