@@ -64,9 +64,17 @@ classDiagram
     Primary : From K
     Primary : To 6
     Primary: ListOf(KLA)
+	Primary: Science()
+	Primary: Mathematics()
+	Primary: English()
+	Primary: Tamil(Modern Language)
+	Primary: PDHPE(Personal Development Health and Physical Education)
+	Primary: Geography()
+	Primary: History()
+	Primary: Creative Arts()
     class Early Stage1{
       Kindergarten
-      List(KLA)
+      ListOf(KLA)
     }
     class Stage1{
       Year 1
