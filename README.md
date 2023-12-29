@@ -124,7 +124,5 @@ _https://docs.github.com/en/get-started/writing-on-github/getting-started-with-w
 
 _https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams_
 _https://mermaid.js.org/syntax/classDiagram.html_
-
 _https://mermaid.live/edit_
-
 _https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams_
