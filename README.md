@@ -11,7 +11,7 @@ Content(s) of this repo is being pushed using **Github Desktop**
 **What is the difference between a syllabus and the curriculum?**
 
 
-Each syllabus includes the rationnale, aim, outcomes, course, specific content, and any mandated assessment requirements. After receiving the syllabus from NESA schools, then use this to develop the curriculu. The curriculum is a plan for learning that every school develops for each key learning area.
+Each syllabus includes the rationnale, aim, outcomes, course, specific content, and any mandated assessment requirements. After receiving the syllabus from NESA schools, then use this to develop the curriculum. The curriculum is a plan for learning that every school develops for each key learning area.
 
 **Transcript of What is curriculum?**
 
