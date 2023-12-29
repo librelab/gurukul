@@ -116,3 +116,10 @@ classDiagram
       List(KLA)
     }
 ```
+
+**Source**
+_https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax_
+_https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams_
+_https://mermaid.js.org/syntax/classDiagram.html_
+_https://mermaid.live/edit_
+_https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams_
