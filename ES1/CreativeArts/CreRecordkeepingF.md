@@ -1,4 +1,4 @@
-${\color{blue}Student \space Name: \space \color{green}Rishaan \space Pillai\color(orange)(HS/45317)}$<br>
+${\color{blue}Student \space Name: \space \color{green}Rishaan \space Pillai \color(orange)(HS/45317)}$<br>
 Stage: Early Stage 1
 Educator: Parents(Priya & Ranjit)
 Date: 27 May 2024
