@@ -14,17 +14,17 @@ Creative Arts Report
 
 Visual Arts 
   
-VAES1.1
+VAES1.1<br>
 1** makes simple pictures and other kinds of artworks about things and experiences
 
 Achievements
 
 a) Expressive Artwork
 
-Skill: Rishaan creates expressive artwork that reflects ideas and experiences.
-Evidence: Rishaan produces drawings and artworks that convey emotions, stories, and personal experiences.
-Example: Rishaan builds a mud volcanic irruption. Draws earth revolving round the sun in sand. Makes fish mould out of mud..
-Status: Working at expected level.
+Skill: Rishaan creates expressive artwork that reflects ideas and experiences.<br>
+Evidence: Rishaan produces drawings and artworks that convey emotions, stories, and personal experiences.<br>
+Example: Rishaan builds a mud volcanic irruption. Draws earth revolving round the sun in sand. Makes fish mould out of mud.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
 b) Use of Different Mediums
 
