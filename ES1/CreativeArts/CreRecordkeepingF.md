@@ -28,29 +28,28 @@ ${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
 b) Use of Different Mediums
 
-Skill: Rishaan experiments with different mediums and materials.
-Evidence: Rishaan explores various art supplies such as crayons, markers, paints, mud, sand and clay .
-Example: Rishaan creates artworks using crayons to draw, paints to color, and dough to sculpt.
-Status: Working at expected level.
+Skill: Rishaan experiments with different mediums and materials.<br>
+Evidence: Rishaan explores various art supplies such as crayons, markers, paints, mud, sand and clay.<br>
+Example: Rishaan creates artworks using crayons to draw, paints to color, and dough to sculpt.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-c) Imagination and Creativity
-Toontastic 3D, chatterpix
-Skill: Rishaan demonstrates imagination and creativity in artwork.
-Evidence: Rishaan invents imaginative scenes and characters in their artwork.
-Example: Rishaan creates an talking picture using chatterpix app or creates a robot using legos.
-Status: Working at expected level.
+c) Imagination and Creativity<br>
+Toontastic 3D, chatterpix<br>
+Skill: Rishaan demonstrates imagination and creativity in artwork.<br>
+Evidence: Rishaan invents imaginative scenes and characters in their artwork.<br>
+Example: Rishaan creates an talking picture using chatterpix app or creates a robot using legos.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-d) Personal Expression
-Tux paint, Coloring games app, Drawing games, learn to draw app
-Skill: Rishaan expresses themselves through artwork.
-Evidence: Rishaan's artwork reflects their personality, interests, and experiences.
-Example: Rishaan creates artworks that showcase their favorite activities, hobbies, or special moments using tux paint.
-Status: Working at expected level.
+d) Personal Expression<br>
+Tux paint, Coloring games app, Drawing games, learn to draw app<br>
+Skill: Rishaan expresses themselves through artwork.<br>
+Evidence: Rishaan's artwork reflects their personality, interests, and experiences.<br>
+Example: Rishaan creates artworks that showcase their favorite activities, hobbies, or special moments using tux paint.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-e) Fine Motor Skills Development
-
-coloring books, airport coloring project 
-Skill: Rishaan's artwork contributes to the development of fine motor skills.
-Evidence: Rishaan demonstrates improved control and coordination in drawing, painting, and manipulating art materials.
-Example: Rishaan shows progress in holding and using art tools with precision and control.
-Status: Working at expected level.
+e) Fine Motor Skills Development<br>
+coloring books, airport coloring project<br> 
+Skill: Rishaan's artwork contributes to the development of fine motor skills.<br>
+Evidence: Rishaan demonstrates improved control and coordination in drawing, painting, and manipulating art materials.<br>
+Example: Rishaan shows progress in holding and using art tools with precision and control.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
