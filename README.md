@@ -130,7 +130,6 @@ _https://mermaid.live/edit_
 
 _https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams_
 
-Color code is done using LATEX code on Markdown.  
- 
+Color code is done using LATEX code on Markdown.<br> 
 Tex can be used to produce colors, but the real objective of it is to write.
 _https://gist.github.com/librelab/b534d145c72be228771fdca4f7e77721_
