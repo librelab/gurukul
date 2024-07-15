@@ -1,7 +1,8 @@
 ${\color{blue}Student \space Name: \space \color{green}Rishaan \space Pillai\color{orange}(HS/45317)}$<br>
 ${\color{blue}Stage: \space \color{green}Early \space Stage \space 1}$<br>
 ${\color{blue}Educator: \space \color{green}Parents(Priya \ and \ Ranjit)}$<br>
-${\color{blue}Date: \space \color{green}27 May 2024}$<br>
+${\color{blue}Date: \space \color{green}27 \ May \ 2024}$<br>
+
 ${\color{red}\text{Rishu's} \space Home \space Education \space Initiative}$
 
 
