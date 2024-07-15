@@ -4,6 +4,7 @@ Educator: Parents(Priya & Ranjit)
 Date: 27 May 2024
 ${\color{red}\text{Rishu's} \space Home \space Education \space Initiative}$
 
+
 Overview
 Rishaan has participated in various Gurukul(Home-education) based activities which covers the outcomes in the KLA as outlined by NESA. Reports based on KLA is underlined below.
 
