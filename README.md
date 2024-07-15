@@ -1,5 +1,5 @@
 # Project - gurukul
-$\text{\color{red}Rishu's \space Home \space Education \space Initiative}$
+${\color{red}\text{Rishu's} \space Home \space Education \space Initiative}$
 
 Undertaking Home Education(Rishu) in NSW, Australia - **NESA**(NSW Education standards Authority) - LandA(**Darug Land**)  
 
