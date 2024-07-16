@@ -12,9 +12,9 @@ Rishaan has participated in various Gurukul(Home-education) based activities whi
 Creative Arts Report
 ------------------
 
-Visual Arts 
+**Visual Arts** 
   
-**VAES1.1**<br>
+VAES1.1<br>
 1** makes simple pictures and other kinds of artworks about things and experiences
 
 Achievements
