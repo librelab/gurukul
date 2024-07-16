@@ -14,7 +14,7 @@ Creative Arts Report
 
 Visual Arts 
   
-VAES1.1<br>
+**VAES1.1**<br>
 1** makes simple pictures and other kinds of artworks about things and experiences
 
 Achievements
