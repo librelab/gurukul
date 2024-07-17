@@ -318,33 +318,33 @@ DRAES1.1
 
 Activities and Responses
 
-a)	Imaginative Play with Fighter Jet Model Planes
+a)	Imaginative Play with Fighter Jet Model Planes<br>
 
-	Activity: Rishaan engaged in imaginative play with fighter jet model planes, creating dramatic scenarios such as aerial dogfights and rescue missions.
-	Example: Rishaan used different voices and sound effects to simulate how F35 or F22 Fighter jet models would dodge Air to air missile fired from MQ9 drone.
-	Observation: Rishaan displayed creativity in developing scenarios, showing a deep understanding of the jet models capability(stealth, flairs, payloads(A2A missile), vertical takeoff and landing).
+	Activity: Rishaan engaged in imaginative play with fighter jet model planes, creating dramatic scenarios such as aerial dogfights and rescue missions.<br>
+	Example: Rishaan used different voices and sound effects to simulate how F35 or F22 Fighter jet models would dodge Air to air missile fired from MQ9 drone.<br>
+	Observation: Rishaan displayed creativity in developing scenarios, showing a deep understanding of the jet models capability(stealth, flairs, payloads(A2A missile), vertical takeoff and landing).<br>
 	${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-b)	Creating a Script for a Fighter Jet Air Show
+b)	Creating a Script for a Fighter Jet Air Show<br>
 
-	Activity: Rishaan uses mind driven story making skill fighter jet air show.
-	Example: The story included a sequence where the jets perform aerobatic maneuvers along with  the jet engine sound.
-	Observation: Rishaan showed an understanding of explaining on the how fighter jets overcome(chaff, maneuvers) the air to air attack.
+	Activity: Rishaan uses mind driven story making skill fighter jet air show.<br>
+	Example: The story included a sequence where the jets perform aerobatic maneuvers along with  the jet engine sound.<br>
+	Observation: Rishaan showed an understanding of explaining on the how fighter jets overcome(chaff, maneuvers) the air to air attack.<br>
 	${\color{Red}Status: \ \color{Yellow}Working \ marginally \ below \ expected \ level}$<br>
 	Improvement: Promote writing simple scripts on topics of his liking, with dialog for few characters.
 
-c)	Performing a Dramatic Play with Fighter Jet Models
+c)	Performing a Dramatic Play with Fighter Jet Models<br>
 
-	Activity: Rishaan performed a dramatic play using the fighter jet models, enacting the story created earlier.
-	Example: During the performance, Rishaan added sound effects for the jet engines, and utilized painted airfield.
-	Observation: Rishaan demonstrated confidence and enthusiasm in performing the play, effectively using body language, voice modulation, and props/painted airfield to enhance the dramatic experience.
+	Activity: Rishaan performed a dramatic play using the fighter jet models, enacting the story created earlier.<br>
+	Example: During the performance, Rishaan added sound effects for the jet engines, and utilized painted airfield.<br>
+	Observation: Rishaan demonstrated confidence and enthusiasm in performing the play, effectively using body language, voice modulation, and props/painted airfield to enhance the dramatic experience.<br>
 	${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-d)	Reflecting on the Dramatic Play
+d)	Reflecting on the Dramatic Play<br>
 
-	Activity: After the performance, Rishaan reflected on the experience by discussing what went well and what could be improved.
-	Example: Rishaan mentioned that adding more faster jets (mach greater than mach 2) could help, adding sound effects could make the play more realistic and engaging.
-	Observation: Rishaan’s reflections showed an ability to critically assess the dramatic play and identify areas for improvement.
+	Activity: After the performance, Rishaan reflected on the experience by discussing what went well and what could be improved.<br>
+	Example: Rishaan mentioned that adding more faster jets (mach greater than mach 2) could help, adding sound effects could make the play more realistic and engaging.<br>
+	Observation: Rishaan’s reflections showed an ability to critically assess the dramatic play and identify areas for improvement.<br>
 	${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
 
