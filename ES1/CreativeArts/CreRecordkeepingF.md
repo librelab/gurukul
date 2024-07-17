@@ -387,13 +387,13 @@ DRAES1.4<br>
 
 Activities and Responses<br>
 
-Activity: Watching "Cars" Animated Movie<br>
+1. Activity: Watching "Cars" Animated Movie<br>
 
 	Example: Rishaan watched the Disney movie "Cars," which tells the story of Lightning McQueen, a race car who learns valuable life lessons about companionship, teamwork, and humility.<br>
 	Observation: Rishaan was highly engaged during the movie, displaying a range of emotions such as excitement during the race scenes, empathy during McQueen's moments of realization, and joy during the comedic interactions with Mater.<br>
 	${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-Activity: Character and Plot Discussion<br>
+a) Activity: Character and Plot Discussion<br>
 
 	Example: After the movie, Rishaan participated in a discussion about the main characters (Lightning McQueen, Mater, Doc Hudson) and the key plot points.<br>
 	Observation: Rishaan spoke about the motivations of the characters and the lessons they learned. For example, Rishaan noted that Lightning McQueen is a speed junky, Rishaan noted that Lightning McQueen took part in Nascar kind of racing, Got familiar with pitcrew, learned the importance of helping others and being part of a community.<br>
