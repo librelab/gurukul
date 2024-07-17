@@ -353,28 +353,28 @@ DRAES1.3
 
 Activities and Responses<br>
 	
-a)	Reenacting a Day at the Park<br>
+1.	Reenacting a Day at the Park<br>
 
 	Activity: Rishaan reenacted a trip to the park, using toys and objects to represent different elements of the park.<br>
 	Example: Rishaan used a bed mattress as a slide, card board box tunnel and a sandbox to represent the park’s playground and enacted playing in the tunnel and sliding down the mattress.<br>
 	Observation: Rishaan utilized movement effectively to mimic playing, running, and interacting with park equipment. He also used space creatively to set up different park areas.<br>
 	${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 	
-b)	Pretend mowing using tractor with rear mount mower <br>
+2.	Pretend mowing using tractor with rear mount mower <br>
 
 	Activity: Rishaan engaged in a pretend mowing, using model lego tractor and rear mount mower.<br>
 	Example: Rishaan used model tractor to mow an imaginary large area, mimicking actions such as reversing at places, making engine sound, using smaller toy mower to cut unreachable areas.<br>
 	Observation: Rishaan showed attention to detail in using objects to represent real mowing activities carried out by the tractor and used the toy machine to cut the imaginary open field effectively.<br>
 	${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-c)	A Day at the Zoo<br>
+3.	A Day at the Zoo<br>
 
 	Activity: Rishaan created a zoo using toy animals and dramatized a visit to the zoo, moving between different animal exhibits.<br>
 	Example: Rishaan used toy animals to represent different zoo exhibits and acted out watching them, and taking photos.<br>
 	Observation: Rishaan used the space creatively to set up different animal enclosures and moved between them, mimicking the experience of walking through a zoo.<br>
 	${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-d)	Family Vacation<br>
+4.	Family Vacation<br>
 
 	Activity: Rishaan reenacted a family vacation(trip to LandI - India), using objects like suitcases, maps, and toy vehicles to represent different parts of the trip.<br>
 	Example: Rishaan packed a suitcase with clothes, pretended to take flight, and used a map to navigate to different pretend destinations.<br>
