@@ -194,7 +194,7 @@ ${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
 **Music**
 
-MUES1.1
+MUES1.1<br>
 1** participates in simple speech, singing playing and moving activities, demonstrating an awareness of musical concepts
 
 Achievements<br>
@@ -236,7 +236,7 @@ Example: Rishaan identifies when a song gets faster or slower, louder or softer,
 ${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
 
-MUES1.2
+MUES1.2<br>
 2** create own rhymes, games, songs and simple compositions
 
 
@@ -279,7 +279,7 @@ Example: Rishaan imitates the exhaust notes(music for Rishaan) of a car when he 
 ${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
 
-MUES1.4 
+MUES1.4<br>
 3** listens to and responds to music 
 
 a) Attentive Listening<br>
@@ -313,7 +313,7 @@ Recommendations
 
 **Drama**
 
-DRAES1.1
+DRAES1.1<br>
 1** uses imagination and the elements of drama in imaginative play and dramatic situations
 
 Activities and Responses<br>
@@ -348,7 +348,7 @@ Activities and Responses<br>
 	${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
 
-DRAES1.3
+DRAES1.3<br>
 2** dramatises personal experiences using movement, space and objects
 
 Activities and Responses<br>
@@ -382,24 +382,24 @@ Activities and Responses<br>
 	${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 	
 
-DRAES1.4
+DRAES1.4<br>
 3** responds to dramatic experiences
 
 Activities and Responses<br>
 
-1. Activity: Watching "Cars" Animated Movie<br>
+Activity: Watching "Cars" Animated Movie<br>
 
 	Example: Rishaan watched the Disney movie "Cars," which tells the story of Lightning McQueen, a race car who learns valuable life lessons about companionship, teamwork, and humility.<br>
 	Observation: Rishaan was highly engaged during the movie, displaying a range of emotions such as excitement during the race scenes, empathy during McQueen's moments of realization, and joy during the comedic interactions with Mater.<br>
 	${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-2. Activity: Character and Plot Discussion<br>
+Activity: Character and Plot Discussion<br>
 
 	Example: After the movie, Rishaan participated in a discussion about the main characters (Lightning McQueen, Mater, Doc Hudson) and the key plot points.<br>
 	Observation: Rishaan spoke about the motivations of the characters and the lessons they learned. For example, Rishaan noted that Lightning McQueen is a speed junky, Rishaan noted that Lightning McQueen took part in Nascar kind of racing, Got familiar with pitcrew, learned the importance of helping others and being part of a community.<br>
 	${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 	
-3. Activity: Role-Playing Favorite Scenes<br>
+Activity: Role-Playing Favorite Scenes<br>
 
 	Example: Rishaan chose to reenact the race scene where Lightning McQueen twists and turns in the racing circuit, taking a risky maneuvers of flying over the cars with his toy model car.<br>
 	Observation: During the role-play, Rishaan used expressive body language and varied vocal tones to portray the intensity of the speeding cars.<br>
@@ -409,7 +409,7 @@ Activities and Responses<br>
 
 **Dance**
 
-DAES1.1
+DAES1.1<br>
 1** participates in dance activities and demonstrates an awareness of body parts, control over movement and expressive qualities
 
 Activities and Responses<br>
@@ -443,7 +443,7 @@ Activities and Responses<br>
 	${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
 
-DAES1.2
+DAES1.2<br>
 2** explores movement in response to a stimulus to express ideas, feelings or moods
 
 Activities and Responses <br>
@@ -478,7 +478,7 @@ Activities and Responses <br>
 	${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
 
-DAES1.3
+DAES1.3<br>
 3** responds to and communicates about the dances they view and/or experiences
 
 Activities and Responses<br>
