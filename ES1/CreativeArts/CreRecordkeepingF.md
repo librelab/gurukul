@@ -316,7 +316,7 @@ Recommendations
 DRAES1.1
 1** uses imagination and the elements of drama in imaginative play and dramatic situations
 
-Activities and Responses
+Activities and Responses<br>
 
 a)	Imaginative Play with Fighter Jet Model Planes<br>
 
