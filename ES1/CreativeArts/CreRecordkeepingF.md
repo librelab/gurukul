@@ -322,7 +322,7 @@ a)	Imaginative Play with Fighter Jet Model Planes<br>
 
 	Activity: Rishaan engaged in imaginative play with fighter jet model planes, creating dramatic scenarios such as aerial dogfights and rescue missions.<br>
 	Example: Rishaan used different voices and sound effects to simulate how F35 or F22 Fighter jet models would dodge Air to air missile fired from MQ9 drone.<br>
-	Observation: Rishaan displayed creativity in developing scenarios, showing a deep understanding of the jet models capability(stealth, flairs, payloads(A2A missile), vertical takeoff and landing).<br>
+	Observation: Rishaan displayed creativity in developing scenarios, showing a deep understanding of the jet models capability(stealth, flairs,<br> payloads(A2A missile), vertical takeoff and landing).<br>
 	${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
 b)	Creating a Script for a Fighter Jet Air Show<br>
