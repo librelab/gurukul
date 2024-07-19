@@ -50,662 +50,371 @@ Evidence: Rishaan's nonverbal cues align with their spoken words, enhancing thei
 Example: Rishaan used a thumbs-up gesture to show approval and smiled when greeting a friend at the same time being cautious around strangers.<br>
 ${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-Areas for Improvement
 
-Expanding Vocabulary
-
-Observation: Rishaan could benefit from expanding their vocabulary to enhance their ability to express more complex ideas.
-Goal: Introduce new words through reading diverse books and engaging in discussions that encourage the use of varied vocabulary.
-Initiating Conversations
-
-Observation: Rishaan is sometimes hesitant to initiate conversations, especially with unfamiliar adults.
-Goal: Encourage Rishaan to start conversations in safe, supportive environments to build confidence in initiating dialogue.
-
-Observation: Rishaan is always excited to express/talk about his thought process or ideas or brainstorming.
-Goal: Keep up the excitment but writing down the brainstorming along with verbal comm will be good. 
-
-
-ENE-VOCAB-01
-
+ENE-VOCAB-01<br>
 2**understands and effectively uses Tier 1 words and Tier 2 words in familiar contexts
 
-Achievements
+a) Understanding Tier 1 Words<br>
 
-a) Understanding Tier 1 Words
+Skill: Rishaan understands and uses common, everyday words (Tier 1) in familiar contexts.<br>
+Evidence: Rishaan consistently uses basic vocabulary correctly in daily conversations.<br>
+Example: Rishaan uses words like "dog," "happy," "eat," and "play" appropriately when talking about daily activities.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-Skill: Rishaan understands and uses common, everyday words (Tier 1) in familiar contexts.
-Evidence: Rishaan consistently uses basic vocabulary correctly in daily conversations.
-Example: Rishaan uses words like "dog," "happy," "eat," and "play" appropriately when talking about daily activities.
-Status: Working at expected level.
+b) Using Tier 1 Words Effectively<br>
 
-b) Using Tier 1 Words Effectively
+Skill: Rishaan effectively uses Tier 1 words to communicate needs, wants, and experiences.<br>
+Evidence: Rishaan can describe simple events and objects using appropriate Tier 1 vocabulary.<br>
+Example: Rishaan said, "F22 Fighter jet travels at mach 2 speed and has twin jet engines" clearly communicating a recent activity.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-Skill: Rishaan effectively uses Tier 1 words to communicate needs, wants, and experiences.
-Evidence: Rishaan can describe simple events and objects using appropriate Tier 1 vocabulary.
-Example: Rishaan said, "F22 Fighter jet travels at mach 2 speed and has twin jet engines" clearly communicating a recent activity.
-Status: Working at expected level.
+c) Understanding Tier 2 Words<br>
 
-c) Understanding Tier 2 Words
+Skill: Rishaan demonstrates an understanding of more sophisticated vocabulary (Tier 2) that is common across a variety of contexts.<br>
+Evidence: Rishaan can define and use Tier 2 words in appropriate contexts.<br>
+Example: Rishaan understands and uses words like "explore," "notice," "create," and "discover" in conversations and activities.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-Skill: Rishaan demonstrates an understanding of more sophisticated vocabulary (Tier 2) that is common across a variety of contexts.
-Evidence: Rishaan can define and use Tier 2 words in appropriate contexts.
-Example: Rishaan understands and uses words like "explore," "notice," "create," and "discover" in conversations and activities.
-Status: Working at expected level.
+d) Using Tier 2 Words Effectively<br>
 
-d) Using Tier 2 Words Effectively
+Skill: Rishaan incorporates Tier 2 words into daily language, enhancing the richness of their communication.<br>
+Evidence: Rishaan uses Tier 2 words in both spoken and written contexts.<br>
+Example: Rishaan described a space vehicle made out of lego by saying "I created this space vehicle with two booster rockets" effectively using the word "created."<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-Skill: Rishaan incorporates Tier 2 words into daily language, enhancing the richness of their communication.
-Evidence: Rishaan uses Tier 2 words in both spoken and written contexts.
-Example: Rishaan described a rocket made out of lego by saying "I created this rocket with two booster rockets" effectively using the word "created."
-Status: Working at expected level.
+e) Contextual Understanding<br>
 
-e) Contextual Understanding
-
-Skill: Rishaan uses context clues to understand and apply new vocabulary words in appropriate situations.
-Evidence: Rishaan shows the ability to infer the meaning of new words based on surrounding text and conversation.
-Example: Rishaan correctly inferred the meaning of "gather" when asked to "gather your toys" during cleanup time.
-Status: Working at expected level.
-
-Areas for Improvement
-
-Expanding Vocabulary Range
-
-Observation: Rishaan can benefit from exposure to a broader range of Tier 2 words to further enhance vocabulary.
-Goal: Introduce Rishaan to new Tier 2 words through diverse reading materials and activities.
-Deepening Understanding of Tier 2 Words
-
-Observation: Rishaan shows an understanding of basic Tier 2 words but can benefit from deeper comprehension and usage.
-Goal: Engage in activities that require Rishaan to use Tier 2 words in various contexts to solidify understanding.
-
-Recommendations
-Daily Reading: Include daily reading sessions with a variety of books that introduce new Tier 2 vocabulary. Discuss the meanings and use of new words encountered.
-Vocabulary Games: Play vocabulary games that involve identifying, defining, and using both Tier 1 and Tier 2 words in sentences.
-Contextual Practice: Encourage Rishaan to use new vocabulary in different contexts, such as storytelling, describing experiences, or during play.
-Word Walls and Flashcards: Create a word wall or use flashcards featuring Tier 1 and Tier 2 words. Review and practice these words regularly.
-Interactive Activities: Engage in interactive activities, such as word hunts, vocabulary charades, and matching games, to make learning new words fun and memorable.
+Skill: Rishaan uses context clues to understand and apply new vocabulary words in appropriate situations.<br>
+Evidence: Rishaan shows the ability to infer the meaning of new words based on surrounding text and conversation.<br>
+Example: Rishaan correctly inferred the meaning of "gather" when asked to "gather your toys" during cleanup time.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
  
-ENE-PHOAW-01
-
+ENE-PHOAW-01<br>
 3** identifies, blends, segments and manipulates phonological units in spoken words as a strategy for reading and creating texts
 
-Achievements
+a) Identifying Phonological Units<br>
 
-a) Identifying Phonological Units
+Skill: Rishaan identifies individual sounds (phonemes) in spoken words.<br>
+Evidence: Rishaan consistently recognizes and identifies initial, medial, and final sounds in words.<br>
+Example: Rishaan can identify that the initial sound in "cat" is /k/.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-Skill: Rishaan identifies individual sounds (phonemes) in spoken words.
-Evidence: Rishaan consistently recognizes and identifies initial, medial, and final sounds in words.
-Example: Rishaan can identify that the initial sound in "cat" is /k/.
-Status: Working at expected level.
+b) Blending Sounds<br>
 
-b) Blending Sounds
+Skill: Rishaan blends individual sounds to form words.<br>
+Evidence: Rishaan can orally blend a series of sounds to form a word.<br>
+Example: When given the sounds /c/, /a/, /t/, Rishaan blends them to say "cat."<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-Skill: Rishaan blends individual sounds to form words.
-Evidence: Rishaan can orally blend a series of sounds to form a word.
-Example: When given the sounds /c/, /a/, /t/, Rishaan blends them to say "cat."
-Status: Working at expected level.
+c) Segmenting Sounds<br>
 
-c) Segmenting Sounds
+Skill: Rishaan segments words into their individual sounds.<br>
+Evidence: Rishaan can break down a word into its component sounds.<br>
+Example: Rishaan can segment the word "dog" into /d/, /o/, /g/.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-Skill: Rishaan segments words into their individual sounds.
-Evidence: Rishaan can break down a word into its component sounds.
-Example: Rishaan can segment the word "dog" into /d/, /o/, /g/.
-Status: Working at expected level.
+d) Manipulating Sounds<br>
 
-d) Manipulating Sounds
+Skill: Rishaan manipulates phonological units by adding, deleting, or substituting sounds to form new words.<br>
+Evidence: Rishaan can perform simple phonological manipulations accurately.<br>
+Example: Rishaan can change the /c/ in "cat" to /h/ to make "hat."<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-Skill: Rishaan manipulates phonological units by adding, deleting, or substituting sounds to form new words.
-Evidence: Rishaan can perform simple phonological manipulations accurately.
-Example: Rishaan can change the /c/ in "cat" to /h/ to make "hat."
-Status: Working at expected level.
+e) Phonological Awareness in Reading<br>
 
-e) Phonological Awareness in Reading
+Skill: Rishaan applies phonological awareness skills to aid in reading.<br>
+Evidence: Rishaan uses knowledge of sounds to decode simple words while reading.<br>
+Example: Rishaan sounds out and reads CVC (consonant-vowel-consonant) words such as "bat" and "sun."<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-Skill: Rishaan applies phonological awareness skills to aid in reading.
-Evidence: Rishaan uses knowledge of sounds to decode simple words while reading.
-Example: Rishaan sounds out and reads CVC (consonant-vowel-consonant) words such as "bat" and "sun."
-Status: Working at expected level.
+f) Phonological Awareness in Writing<br>
 
-f) Phonological Awareness in Writing
+Skill: Rishaan applies phonological awareness skills to aid in writing.<br>
+Evidence: Rishaan uses knowledge of sounds to spell simple words while writing.<br>
+Example: Rishaan spells words by sounding them out, such as writing "dog" after segmenting the sounds.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-Skill: Rishaan applies phonological awareness skills to aid in writing.
-Evidence: Rishaan uses knowledge of sounds to spell simple words while writing.
-Example: Rishaan spells words by sounding them out, such as writing "dog" after segmenting the sounds.
-Status: Working at expected level.
-
-Areas for Improvement
-
-Complex Sound Manipulation
-
-Observation: Rishaan shows proficiency with simple phonological manipulations but can benefit from practice with more complex manipulations.
-Goal: Introduce activities that involve manipulating sounds in longer words or words with blends and digraphs.
-Application in Fluent Reading and Writing
-
-Observation: Rishaan is developing fluency in reading and writing but can improve by integrating phonological skills more seamlessly.
-Goal: Provide more opportunities for Rishaan to practice reading and writing in context to build fluency.
-
-Recommendations
-Phonological Games: Engage in phonological awareness games such as rhyming games, sound matching, and phoneme manipulation activities.
-Blending and Segmenting Practice: Regularly practice blending and segmenting sounds using everyday objects, flashcards, and interactive apps.
-Read-Aloud Sessions: Include daily read-aloud sessions where Rishaan can practice sounding out words and recognizing phonological patterns.
-Writing Activities: Encourage Rishaan to write simple sentences and stories, emphasizing the use of phonological skills to spell new words.
-Interactive Phonics Programs: Utilize interactive phonics programs and apps that offer engaging activities to reinforce phonological skills.
-
-Parent/Guardian Comments
-Rishaan has shown commendable progress in identifying, blending, segmenting, and manipulating phonological units. With continued practice and exposure to more complex phonological tasks, Rishaan will further develop their reading and writing skills. Excellent work, Rishaan!
+decoding required <br>
 
  
-ENE-PRINT-01
-
+ENE-PRINT-01<br>
 4** tracks written text from left to right and from top to bottom of the page and identifies visual and spatial features of print.
 
-Achievements
 
-a) Tracking Written Text
+a) Tracking Written Text<br>
 
-Skill: Rishaan tracks written text from left to right and from top to bottom of the page.
-Evidence: Rishaan consistently follows the correct direction when reading and writing.
-Example: During read-aloud sessions, Rishaan uses their finger to follow the text from the beginning to the end of each line and from the top to the bottom of the page.
-Status: Working at expected level.
+Skill: Rishaan tracks written text from left to right and from top to bottom of the page.<br>
+Evidence: Rishaan consistently follows the correct direction when reading and writing.<br>
+Example: During read-aloud sessions, Rishaan uses their finger to follow the text from the beginning to the end of each line and from the top to the bottom of the page.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-b) Identifying Visual Features of Print
+b) Identifying Visual Features of Print<br>
 
-Skill: Rishaan identifies visual features of print, such as letters, words, and punctuation marks.
-Evidence: Rishaan can recognize and name letters, words, and basic punctuation in printed text.
-Example: Rishaan points out and names letters in words and recognizes periods and question marks at the end of sentences.
-Status: Working at expected level.
+Skill: Rishaan identifies visual features of print, such as letters, words, and punctuation marks.<br>
+Evidence: Rishaan can recognize and name letters, words, and basic punctuation in printed text.<br>
+Example: Rishaan points out and names letters in words and recognizes periods and question marks at the end of sentences.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-c) Recognizing Spatial Features of Print
+c) Recognizing Spatial Features of Print<br>
 
-Skill: Rishaan recognizes spatial features of print, including spaces between words and the layout of text on the page.
-Evidence: Rishaan understands that spaces separate words and can identify the beginning and end of lines of text.
-Example: Rishaan accurately points to individual words in a sentence and understands that text moves from one line to the next.
-Status: Working at expected level.
+Skill: Rishaan recognizes spatial features of print, including spaces between words and the layout of text on the page.<br>
+Evidence: Rishaan understands that spaces separate words and can identify the beginning and end of lines of text.<br>
+Example: Rishaan accurately points to individual words in a sentence and understands that text moves from one line to the next.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-d) Following Print Conventions
+d) Following Print Conventions<br>
 
-Skill: Rishaan follows print conventions such as capitalization and the use of punctuation.
-Evidence: Rishaan shows awareness of capital letters at the beginning of sentences and proper names.
-Example: Rishaan identifies capital letters and explains their use at the start of sentences or for names.
-Status: Working at expected level.
+Skill: Rishaan follows print conventions such as capitalization and the use of punctuation.<br>
+Evidence: Rishaan shows awareness of capital letters at the beginning of sentences and proper names.<br>
+Example: Rishaan identifies capital letters and explains their use at the start of sentences or for names.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-e) Participating in Reading Activities
+e) Participating in Reading Activities<br>
 
-Skill: Rishaan actively participates in reading activities, demonstrating understanding of print conventions.
-Evidence: Rishaan engages in shared reading, echo reading, and guided reading activities, following along with the text.
-Example: Rishaan reads along with a parent, tracking the text with their finger.
-Status: Working at expected level.
-
-Areas for Improvement
-
-Fluency in Tracking
-
-Observation: Rishaan occasionally loses their place when tracking longer sentences or paragraphs.
-Goal: Practice tracking longer texts to improve fluency and maintain focus across multiple lines of text.
-Recognition of Advanced Punctuation
-
-Observation: Rishaan shows familiarity with basic punctuation but can benefit from exposure to more advanced punctuation marks.
-Goal: Introduce Rishaan to commas, exclamation marks, and quotation marks through reading and writing activities.
-
-Recommendations
-
-Daily Reading Practice: Continue daily reading sessions, encouraging Rishaan to track text with their finger or a pointer to reinforce the directionality of reading.
-Interactive Reading Activities: Engage in interactive reading activities such as "read the room," where Rishaan can find and track text around the house or in books.
-Punctuation Games: Introduce games and activities focused on identifying and using punctuation marks to enhance understanding of print conventions.
-Writing Practice: Provide opportunities for Rishaan to practice writing, emphasizing proper spacing between words and the use of capital letters and punctuation.
-Visual Aids: Use visual aids such as posters or flashcards that highlight print conventions, including directionality, spacing, and punctuation.
+Skill: Rishaan actively participates in reading activities, demonstrating understanding of print conventions.<br>
+Evidence: Rishaan engages in shared reading, echo reading, and guided reading activities, following along with the text.<br>
+Example: Rishaan reads along with a parent.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
  
-ENE-PHOKW-01
-
+ENE-PHOKW-01<br>
 5** uses single-letter grapheme-phoneme correspondences and common digraphs to decode and encode words when reading and creating texts 
 
-Achievements
 
-a) Single-Letter Grapheme-Phoneme Correspondences
+a) Single-Letter Grapheme-Phoneme Correspondences<br>
 
-Skill: Rishaan understands and uses single-letter grapheme-phoneme correspondences.
-Evidence: Rishaan consistently matches letters to their corresponding sounds.
-Example: Rishaan can identify and produce the sound for each letter of the alphabet, such as /b/ for "b" and /m/ for "m."
-Status: Working at expected level.
+Skill: Rishaan understands and uses single-letter grapheme-phoneme correspondences.<br>
+Evidence: Rishaan consistently matches letters to their corresponding sounds.<br>
+Example: Rishaan can identify and produce the sound for each letter of the alphabet, such as /b/ for "b" and /m/ for "m."<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-b) Decoding Single-Letter Graphemes
+b) Decoding Single-Letter Graphemes<br>
 
-Skill: Rishaan decodes words by sounding out each letter.
-Evidence: Rishaan can read simple CVC (consonant-vowel-consonant) words by blending individual sounds.
-Example: Rishaan reads words like "cat," "dog," and "sun" by blending the sounds of each letter.
-Status: Working at expected level.
+Skill: Rishaan decodes words by sounding out each letter.<br>
+Evidence: Rishaan can read simple CVC (consonant-vowel-consonant) words by blending individual sounds.<br>
+Example: Rishaan reads words like "cat," "dog," and "sun" by blending the sounds of each letter.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-c) Encoding Single-Letter Graphemes
+c) Encoding Single-Letter Graphemes<br>
 
-Skill: Rishaan encodes words by writing the correct letters for each sound.
-Evidence: Rishaan spells simple words by segmenting the sounds and writing the corresponding letters.
-Example: Rishaan writes the word "bat" after hearing the sounds /b/, /a/, /t/.
-Status: Working at expected level.
+Skill: Rishaan encodes words by writing the correct letters for each sound.<br>
+Evidence: Rishaan spells simple words by segmenting the sounds and writing the corresponding letters.<br>
+Example: Rishaan writes the word "bat" after hearing the sounds /b/, /a/, /t/.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-d) Understanding Common Digraphs
+d) Understanding Common Digraphs<br>
 
-Skill: Rishaan understands and uses common digraphs (two letters representing one sound).
-Evidence: Rishaan can identify and produce the sounds of common digraphs such as "ch," "sh," "th," and "wh."
-Example: Rishaan recognizes that "sh" in "ship" makes a single sound /ʃ/.
-Status: Working at expected level.
+Skill: Rishaan understands and uses common digraphs (two letters representing one sound).<br>
+Evidence: Rishaan can identify and produce the sounds of common digraphs such as "ch," "sh," "th," and "wh."<br>
+Example: Rishaan recognizes that "sh" in "ship" makes a single sound /ʃ/.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-e) Decoding Words with Digraphs
+e) Decoding Words with Digraphs<br>
 
-Skill: Rishaan decodes words containing common digraphs.
-Evidence: Rishaan reads words with digraphs by blending the sounds accurately.
-Example: Rishaan reads words like "fish," "chat," and "whale" correctly.
-Status: Working at expected level.
+Skill: Rishaan decodes words containing common digraphs.<br>
+Evidence: Rishaan reads words with digraphs by blending the sounds accurately.<br>
+Example: Rishaan reads words like "fish," "chat," and "whale" correctly.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-f) Encoding Words with Digraphs
+f) Encoding Words with Digraphs<br>
 
-Skill: Rishaan encodes words by correctly using digraphs.
-Evidence: Rishaan spells words with digraphs by recognizing and writing the appropriate letter pairs.
-Example: Rishaan writes the word "bath" after segmenting the sounds and recognizing the "th" digraph.
-Status: Working at expected level.
+Skill: Rishaan encodes words by correctly using digraphs.<br>
+Evidence: Rishaan spells words with digraphs by recognizing and writing the appropriate letter pairs.<br>
+Example: Rishaan writes the word "bath" after segmenting the sounds and recognizing the "th" digraph.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-Areas for Improvement
-
-Fluency with Less Common Digraphs
-
-Observation: Rishaan shows proficiency with common digraphs but can benefit from exposure to less common ones.
-Goal: Introduce activities that include less common digraphs such as "ph," "ck," and "qu" to broaden Rishaan's decoding and encoding skills.
-Automaticity in Blending and Segmenting
-
-Observation: Rishaan is developing fluency but can improve in the automaticity of blending and segmenting sounds in words.
-Goal: Provide more opportunities for practice to increase speed and confidence in these skills.
-
-Recommendations
-
-Daily Phonics Practice: Include daily phonics exercises that focus on single-letter grapheme-phoneme correspondences and common digraphs. Use phonics workbooks, flashcards, and educational apps.
-Reading Aloud: Engage in daily read-aloud sessions where Rishaan can practice decoding words with single-letter graphemes and digraphs. Encourage Rishaan to sound out unfamiliar words.
-Writing Exercises: Provide writing activities where Rishaan can practice encoding words by spelling them out. Dictate simple sentences that include both single-letter graphemes and common digraphs.
-Phonics Games: Incorporate phonics games that make learning fun and interactive. Games like "Bingo" with digraphs or "Word Building" using magnetic letters can reinforce skills.
-Word Sort Activities: Use word sort activities to help Rishaan categorize words based on single-letter sounds and digraphs, enhancing recognition and understanding.
-
-
-ENE-REFLU-01
-
+ENE-REFLU-01<br>
 6** reads decodable texts aloud with automaticity
 
-Achievements
+Achievements<br>
 
-a) Reading Decodable Texts
+a) Reading Decodable Texts<br>
 
-Skill: Rishaan reads decodable texts that are appropriate for their reading level.
-Evidence: Rishaan can read books and passages that consist of words using learned phonics patterns and high-frequency words.
-Example: Rishaan reads a decodable book about a cat and a hat, successfully sounding out each word.
-Status: Working at expected level.
+Skill: Rishaan reads decodable texts that are appropriate for their reading level.<br>
+Evidence: Rishaan can read books and passages that consist of words using learned phonics patterns and high-frequency words.<br>
+Example: Rishaan reads a decodable book about a cat and a hat, successfully sounding out each word.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-b) Automaticity in Reading
+b) Automaticity in Reading<br>
 
-Skill: Rishaan reads familiar decodable texts with minimal hesitation and effort.
-Evidence: Rishaan shows increasing speed and accuracy when reading aloud.
-Example: Rishaan reads sentences like "The dog can run" smoothly and quickly.
-Status: Working at expected level.
+Skill: Rishaan reads familiar decodable texts with minimal hesitation and effort.<br>
+Evidence: Rishaan shows increasing speed and accuracy when reading aloud.<br>
+Example: Rishaan reads sentences like "The dog can run" smoothly and quickly.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-c) Accuracy in Decoding
+c) Accuracy in Decoding<br>
 
-Skill: Rishaan accurately decodes words in decodable texts.
-Evidence: Rishaan correctly pronounces most words, showing a good grasp of phonics rules and high-frequency words.
-Example: Rishaan reads words like "jump," "fish," and "quick" correctly without pausing.
-Status: Working at expected level.
+Skill: Rishaan accurately decodes words in decodable texts.<br>
+Evidence: Rishaan correctly pronounces most words, showing a good grasp of phonics rules and high-frequency words.<br>
+Example: Rishaan reads words like "jump," "fish," and "quick" correctly without pausing.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-d) Expression and Pacing
+d) Expression and Pacing<br>
 
-Skill: Rishaan reads with appropriate expression and pacing.
-Evidence: Rishaan uses punctuation cues to modulate voice and pace while reading aloud.
-Example: Rishaan reads a sentence with a question mark with a rising intonation and pauses appropriately at periods.
-Status: Working at expected level.
+Skill: Rishaan reads with appropriate expression and pacing.<br>
+Evidence: Rishaan uses punctuation cues to modulate voice and pace while reading aloud.<br>
+Example: Rishaan reads a sentence with a question mark with a rising intonation and pauses appropriately at periods.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-e) Confidence in Reading Aloud
+e) Confidence in Reading Aloud<br>
 
-Skill: Rishaan reads aloud with growing confidence and enthusiasm.
-Evidence: Rishaan participates willingly in read-aloud sessions and shows enjoyment in reading.
-Example: Rishaan eagerly reads a favorite decodable book to a family member.
-Status: Working at expected level.
+Skill: Rishaan reads aloud with growing confidence and enthusiasm.<br>
+Evidence: Rishaan participates willingly in read-aloud sessions and shows enjoyment in reading.<br>
+Example: Rishaan eagerly reads a favorite decodable book to a family member.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-Areas for Improvement
-
-Consistent Reading Practice
-
-Observation: Rishaan benefits from regular practice to maintain and improve fluency.
-Goal: Ensure daily reading sessions to reinforce automaticity and build confidence.
-
-Complex Sentence Structures
-
-Observation: Rishaan shows proficiency with simple sentences but can improve with more complex sentence structures.
-Goal: Gradually introduce more complex decodable texts to challenge Rishaan and develop advanced reading skills.
-
-Recommendations
-
-Daily Reading Routine: Establish a daily reading routine where Rishaan reads decodable texts aloud for 10-15 minutes to build fluency.
-Echo Reading: Practice echo reading, where Rishaan repeats after an adult, to model fluent reading and build confidence.
-Timed Readings: Conduct timed reading sessions where Rishaan reads a passage within a set time to improve reading speed and automaticity.
-Variety of Texts: Provide a variety of decodable texts that increase in complexity to keep Rishaan engaged and challenged.
-Positive Reinforcement: Offer praise and encouragement to build Rishaan’s confidence and enjoyment in reading aloud.
-
-ENE-RECOM-01
-
+ENE-RECOM-01<br>
 7** comprehends independently read texts using background knowledge, word knowledge and understanding of how sentences connect
 
-Achievements
+Achievements<br>
 
-a) Utilizing Background Knowledge
+a) Utilizing Background Knowledge<br>
 
-quote Lightning macqueen animation and read story about the car
-Skill: Rishaan uses background knowledge to understand texts.
-Evidence: Rishaan makes connections between the text and prior experiences or knowledge.
-Example: While reading a story about "Cars", Rishaan relates it to the "cars" animated video he has seen before, which helps him to visualise and understand the story. 
-Status: Working at expected level.
+Lightning macqueen animation and read story about the car<br>
+Skill: Rishaan uses background knowledge to understand texts.<br>
+Evidence: Rishaan makes connections between the text and prior experiences or knowledge.<br>
+Example: While reading a story about "Cars", Rishaan relates it to the "cars" animated video he has seen before, which helps him to visualise and understand the story. <br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-b) Word Knowledge
+b) Word Knowledge<br>
 
-Skill: Rishaan uses knowledge of words, including high-frequency and topic-specific vocabulary, to comprehend texts.
-Evidence: Rishaan accurately identifies and understands the meaning of familiar words within the context of the text.
-Example: Rishaan understands words like "elephant," "giraffe," and "zoo" in a story about animals.
-Status: Working at expected level.
+Skill: Rishaan uses knowledge of words, including high-frequency and topic-specific vocabulary, to comprehend texts.<br>
+Evidence: Rishaan accurately identifies and understands the meaning of familiar words within the context of the text.<br>
+Example: Rishaan understands words like "elephant," "giraffe," and "zoo" in a story about animals.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-c) Understanding Sentence Connections
+c) Understanding Sentence Connections<br>
 
-Skill: Rishaan understands how sentences connect to form coherent ideas within a text.
-Evidence: Rishaan follows the flow of ideas from one sentence to the next, showing comprehension of the overall message.
-Example: Rishaan accurately summarizes a story by explaining how the events are linked.
-Status: Working at expected level.
+Skill: Rishaan understands how sentences connect to form coherent ideas within a text.<br>
+Evidence: Rishaan follows the flow of ideas from one sentence to the next, showing comprehension of the overall message.<br>
+Example: Rishaan accurately summarizes a story by explaining how the events are linked.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-d) Answering Comprehension Questions
+d) Answering Comprehension Questions<br>
 
-Skill: Rishaan answers questions about independently read texts, demonstrating understanding.
-Evidence: Rishaan provides accurate answers to who, what, where, when, and why questions related to the text.
-Example: After reading a story about a birthday party, Rishaan answers questions about who the main character is, what happened, and why it was important.
-Status: Working at expected level.
+Skill: Rishaan answers questions about independently read texts, demonstrating understanding.<br>
+Evidence: Rishaan provides accurate answers to who, what, where, when, and why questions related to the text.<br>
+Example: After reading a story about a birthday party, Rishaan answers questions about who the main character is, what happened, and why it was important.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-e) Retelling Stories
+e) Retelling Stories<br>
 
-Skill: Rishaan retells stories in their own words, showing comprehension of the main ideas and details.
-Evidence: Rishaan recounts the beginning, middle, and end of a story with key details included.
-Example: Rishaan retells the story of "Cars" with accurate details about the characters and events.
-Status: Working at expected level.
+Skill: Rishaan retells stories in their own words, showing comprehension of the main ideas and details.<br>
+Evidence: Rishaan recounts the beginning, middle, and end of a story with key details included.<br>
+Example: Rishaan retells the story of "Cars" with accurate details about the characters and events.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-Areas for Improvement
-
-Inferences and Predictions
-
-Observation: Rishaan can benefit from practice in making inferences and predictions based on the text.
-Goal: Encourage Rishaan to think about what might happen next in a story or why a character acts in a certain way.
-
-Complex Texts
-
-Observation: Rishaan shows proficiency with simple texts but can improve comprehension with more complex texts.
-Goal: Introduce texts with slightly more complex sentence structures and vocabulary to challenge Rishaan’s comprehension skills.
-
-Recommendations
-
-Daily Reading Practice: Encourage daily independent reading of age-appropriate texts to build comprehension skills.
-Discussion: After reading, discuss the text with Rishaan, asking open-ended questions to prompt deeper thinking about the content.
-Comprehension Activities: Engage in activities such as story maps, sequencing events, and drawing scenes from the text to reinforce understanding.
-Inference Practice: Use texts and stories to practice making inferences and predictions. Ask Rishaan to explain their thinking about what might happen next or why a character made a particular choice.
-Variety of Texts: Provide a variety of reading materials, including fiction and non-fiction, to broaden Rishaan’s exposure to different types of texts and vocabulary.
  
-ENE-CWT-01     ************************ working marginally below 
-
+ENE-CWT-01<br>
 8** creates written texts that includes at least 2 related ideas and correct simple sentences 
+
+The homeschooled child is working marginally below the expected level in creating written texts that include at least two related ideas and correct simple sentences. They can generate simple sentences and occasionally link related ideas, but their texts often lack coherence and flow. The child shows an emerging understanding of sentence structure and punctuation, though errors are still present. Continued practice in organizing thoughts and structuring sentences, along with targeted feedback on their writing, will help enhance their ability to create more cohesive and accurate written texts. Regular writing exercises focusing on connecting related ideas will further support their development in this area.
+${\color{Red}Status: \ \color{Yellow}Working \ marginally \ below \ expected \ level}$<br>
  
-Overview
+Recommendations<br>
 
-Rishaan has engaged in various home-based activities aimed at developing the ability to create written texts that include at least two related ideas and use correct simple sentences. This outcome focuses on building foundational writing skills, which are essential for effective communication.
-
-Achievements
-
-a) Creating Written Texts with Related Ideas
-
-Skill: Rishaan creates written texts that include at least two related ideas.
-Evidence: Rishaan can write short passages or sentences that are logically connected.
-Example: Rishaan writes, "I went to the park. I played on the swings." Both sentences are related and logically connected.
-Rishaan writes, "I have a ball. I played with it."Both sentences are related and logically connected
-Status: Working at expected level.
-
-b) Writing Correct Simple Sentences
-
-Skill: Rishaan writes simple sentences correctly, including appropriate use of capital letters and punctuation.
-Evidence: Rishaan consistently uses capital letters at the beginning of sentences and periods at the end.
-Example: Rishaan writes, "The cat is black. It likes to sleep."
-Rishaan writes, "I like playing with planes."
-Status: Working at expected level.
-
-c) Expressing Ideas Clearly
-
-Skill: Rishaan expresses ideas clearly in writing.
-Evidence: Rishaan's writing is understandable and conveys clear messages or descriptions.
-Example: Rishaan writes, "I have a dog. His name is Biscuit. He likes playing."
-Status: Working at expected level.
-
-d) Using Basic Vocabulary
-
-Skill: Rishaan uses basic vocabulary appropriate for their grade level in writing.
-Evidence: Rishaan's texts include age-appropriate words and simple phrases.
-Example: Rishaan writes, "We went to the zoo. I saw a lion."
-Status: Working at expected level.
-
-e) Sequencing Ideas
-
-Skill: Rishaan sequences ideas logically in writing.
-Evidence: Rishaan's writing shows a clear order of events or ideas.
-Example: Rishaan writes, "First, I brush my teeth. Then, I have my breakfast."
-Status: Working at expected level.
-
-Areas for Improvement
-
-Expanding Sentence Length
-
-Observation: Rishaan primarily writes short, simple sentences.
-Goal: Encourage Rishaan to expand sentences by adding more details or combining ideas to create more complex sentences.
-
-Using Descriptive Language
-
-Observation: Rishaan's writing could benefit from more descriptive words to enhance the details.
-Goal: Introduce activities that encourage Rishaan to use adjectives and adverbs to make writing more vivid.
-
-Recommendations
-
-Writing Prompts: Provide daily writing prompts that encourage Rishaan to write at least two related sentences on a variety of topics.
-Sentence Expansion Exercises: Use exercises that focus on expanding sentences by adding details, such as "Who, What, When, Where, Why, and How."
-Story Sequencing: Engage in story sequencing activities where Rishaan writes about events in order, helping to reinforce logical connections between ideas.
-Reading and Writing Connection: Read stories together and discuss how the sentences connect. Encourage Rishaan to write similar stories using related ideas.
-Descriptive Writing Activities: Incorporate activities that focus on using descriptive language, such as describing a favorite toy or a memorable outing.
+Writing Prompts: Provide daily writing prompts that encourage Rishaan to write at least two related sentences on a variety of topics.<br>
+Sentence Expansion Exercises: Use exercises that focus on expanding sentences by adding details, such as "Who, What, When, Where, Why, and How."<br>
+Story Sequencing: Engage in story sequencing activities where Rishaan writes about events in order, helping to reinforce logical connections between ideas.<br>
+Reading and Writing Connection: Read stories together and discuss how the sentences connect. Encourage Rishaan to write similar stories using related ideas.<br>
+Descriptive Writing Activities: Incorporate activities that focus on using descriptive language, such as describing a favorite toy or a memorable outing.<br>
  
-ENE-SPELL-01  ************************ working marginally below
-
+ENE-SPELL-01 <br>
 9** applies phonological, orthographic and morphological generalizations and strategies to spell taught and high-frequency words when creating texts
 
-Overview
+The homeschooled child is working marginally below the expected level in applying phonological, orthographic, and morphological generalizations and strategies to spell taught and high-frequency words when creating texts. They demonstrate a basic understanding of phonological rules and can spell simple high-frequency words correctly. However, they occasionally struggle with more complex phonological patterns and orthographic rules. Their spelling of morphologically complex words, such as those with prefixes and suffixes, is inconsistent. Continued focused practice on these areas, along with targeted strategies to reinforce spelling rules and patterns, will help improve their accuracy and confidence in spelling. Regular review and practice of high-frequency words will also support their progress in this area.
+${\color{Red}Status: \ \color{Yellow}Working \ marginally \ below \ expected \ level}$<br>
 
-Rishaan has engaged in various home-based activities aimed at developing the ability to spell taught and high-frequency words using phonological, orthographic, and morphological strategies. This outcome focuses on building foundational spelling skills, which are essential for effective writing and communication.
+Recommendations<br>
 
-Achievements
-
-a) Phonological Generalizations 
-
-Skill: Rishaan applies phonological strategies to spell words.
-Evidence: Rishaan uses sound-letter correspondence to spell words accurately.
-Example: Rishaan spells words like "cat," "dog," and "sun" by sounding out each phoneme.
-Status: Working at expected level.
-
-b) Orthographic Generalizations
-
-Skill: Rishaan uses orthographic patterns to spell words correctly.
-Evidence: Rishaan recognizes and applies common spelling patterns in words.
-Example: Rishaan correctly spells words with common patterns like "ch" in "chip" and "sh" in "ship."
-Status: Working at expected level.
-
-c) Morphological Generalizations
-
-Skill: Rishaan uses knowledge of morphemes to spell words.
-Evidence: Rishaan correctly spells base words and simple derivatives.
-Example: Rishaan spells "play" and "playing" correctly, recognizing the base word and suffix.
-Status: Working at expected level.
-
-d) Spelling High-Frequency Words
-
-Skill: Rishaan spells high-frequency words accurately in writing.
-Evidence: Rishaan consistently spells common sight words correctly.
-Example: Rishaan spells words like "the," "and," "is," and "it" correctly in sentences.
-Status: Working at expected level.
-
-e) Using Spelling Strategies
-
-Skill: Rishaan employs various strategies to spell words.
-Evidence: Rishaan uses strategies such as segmenting sounds, using spelling patterns, and applying morphological rules to spell words.
-Example: Rishaan uses the "stretch it out" strategy to spell words like "jump" and "sand."
-Status: Working at expected level.
-
-Areas for Improvement
-
-Complex Spelling Patterns
-
-Observation: Rishaan shows proficiency with basic patterns but can improve with more complex spelling rules.
-Goal: Introduce activities that include less common spelling patterns and rules, such as silent letters and diphthongs.
-
-Consistent Practice with Morphology
-
-Observation: Rishaan can benefit from more practice with morphological generalizations, such as prefixes and suffixes.
-Goal: Engage Rishaan in activities that explore how adding prefixes and suffixes changes word meanings and spellings.
-
-Recommendations
-
-Spelling Practice: Provide daily spelling practice that focuses on phonological, orthographic, and morphological strategies. Use spelling lists, word sorts, and spelling games.
-Word Study Activities: Incorporate word study activities that focus on specific spelling patterns and rules, such as word families, blends, and digraphs.
-Morphology Exercises: Include exercises that focus on understanding and using prefixes, suffixes, and base words. For example, create word trees that show how words change with different prefixes and suffixes.
-High-Frequency Word Practice: Reinforce high-frequency word spelling through flashcards, word walls, and writing activities.
-Interactive Spelling Games: Use interactive games and apps to make spelling practice fun and engaging, reinforcing the application of spelling strategies.
+Spelling Practice: Provide daily spelling practice that focuses on phonological, orthographic, and morphological strategies. Use spelling lists, word sorts, and spelling games.<br>
+Word Study Activities: Incorporate word study activities that focus on specific spelling patterns and rules, such as word families, blends, and digraphs.<br>
+Morphology Exercises: Include exercises that focus on understanding and using prefixes, suffixes, and base words. For example, create word trees that show how words change with different prefixes and suffixes.<br>
+High-Frequency Word Practice: Reinforce high-frequency word spelling through flashcards, word walls, and writing activities.<br>
+Interactive Spelling Games: Use interactive games and apps to make spelling practice fun and engaging, reinforcing the application of spelling strategies.<br>
  
-ENE-HANDW-01
-
+ENE-HANDW-01<br>
 10** produces all lower-case and upper-case letters to create texts
 
-Overview
+Achievements<br>
 
-Rishaan has engaged in various home-based activities aimed at developing the ability to produce all lower-case and upper-case letters accurately when creating texts. This outcome focuses on building foundational handwriting skills, which are essential for effective written communication.
+a) Formation of Lower-Case Letters<br>
 
-Achievements
+Skill: Rishaan produces all lower-case letters accurately.<br>
+Evidence: Rishaan writes all lower-case letters with correct shape, size, and alignment most of the time(require more training).<br>
+Example: Rishaan can write the alphabet from a to z, with each letter properly formed.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-a) Formation of Lower-Case Letters
+b) Formation of Upper-Case Letters<br>
 
-Skill: Rishaan produces all lower-case letters accurately.
-Evidence: Rishaan writes all lower-case letters with correct shape, size, and alignment.
-Example: Rishaan can write the alphabet from a to z, with each letter properly formed.
-Status: Working at expected level.
+Skill: Rishaan produces all upper-case letters accurately.<br>
+Evidence: Rishaan writes all upper-case letters with correct shape and size most of the time.<br>
+Example: Rishaan can write the alphabet from A to Z, with each letter properly formed most of the time.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-b) Formation of Upper-Case Letters
+c) Consistency in Letter Size<br>
 
-Skill: Rishaan produces all upper-case letters accurately.
-Evidence: Rishaan writes all upper-case letters with correct shape and size.
-Example: Rishaan can write the alphabet from A to Z, with each letter properly formed.
-Status: Working at expected level.
+Skill: Rishaan writes letters with consistent size.<br>
+Evidence: Rishaan's writing shows uniformity in the height and width of letters most of the time.<br>
+Example: Rishaan writes a sentence where both lower-case and upper-case letters are consistently sized most of the time.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-c) Consistency in Letter Size
+d) Letter Alignment<br>
 
-Skill: Rishaan writes letters with consistent size.
-Evidence: Rishaan's writing shows uniformity in the height and width of letters.
-Example: Rishaan writes a sentence where both lower-case and upper-case letters are consistently sized.
-Status: Working at expected level.
+Skill: Rishaan aligns letters correctly on the line.<br>
+Evidence: Rishaan's writing stays on the baseline, with proper spacing between words.<br>
+Example: Rishaan writes, "The quick brown fox jumps over the lazy dog," with all letters properly aligned.<br>
+Rishaan writes, "I can be anything I want to be when I grow up." with all letters properly aligned.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-d) Letter Alignment
+Recommendations<br>
 
-Skill: Rishaan aligns letters correctly on the line.
-Evidence: Rishaan's writing stays on the baseline, with proper spacing between words.
-Example: Rishaan writes, "The quick brown fox jumps over the lazy dog," with all letters properly aligned.
-Status: Working at expected level.
-
-e) Creating Texts
-
-Skill: Rishaan uses both upper-case and lower-case letters appropriately in texts.
-Evidence: Rishaan understands when to use upper-case letters (e.g., at the beginning of sentences, for proper nouns).
-Example: Rishaan writes, "My name is Rishaan. I live in Sydney."
-Status: Working at expected level.
-
-Areas for Improvement
-
-Fluency and Speed
-
-Observation: Rishaan can improve the fluency and speed of writing while maintaining accuracy.
-Goal: Encourage activities that promote quicker, yet accurate, letter formation.
-
-Complex Texts
-
-Observation: Rishaan primarily writes simple sentences and can improve by writing more complex texts.
-Goal: Encourage Rishaan to write short paragraphs or stories that include both upper-case and lower-case letters.
-
-Recommendations
-
-Daily Handwriting Practice: Provide daily handwriting practice focusing on both lower-case and upper-case letters. Use handwriting worksheets and tracing activities.
-Alphabet Drills: Engage in alphabet drills where Rishaan practices writing the entire alphabet in both cases regularly.
-Writing Exercises: Include writing exercises that require Rishaan to use both upper-case and lower-case letters appropriately in sentences and paragraphs.
-Creative Writing: Encourage creative writing activities such as journaling or story creation, which require the use of both cases.
-Interactive Tools: Use interactive tools and apps that offer handwriting practice, ensuring a fun and engaging way to reinforce proper letter formation.
+Daily Handwriting Practice: Provide daily handwriting practice focusing on both lower-case and upper-case letters. Use handwriting worksheets and tracing activities.<br>
+Alphabet Drills: Engage in alphabet drills where Rishaan practices writing the entire alphabet in both cases regularly.<br>
+Writing Exercises: Include writing exercises that require Rishaan to use both upper-case and lower-case letters appropriately in sentences and paragraphs.<br>
+Creative Writing: Encourage creative writing activities such as journaling or story creation, which require the use of both cases.<br>
+Interactive Tools: Use interactive tools and apps that offer handwriting practice, ensuring a fun and engaging way to reinforce proper letter formation.<br>
 
  
-ENE-UARL-01
-
+ENE-UARL-01<br>
 11** understands and responds to literature read to them
  
-Overview
+Achievements<br>
+Khan Kids,Vooks, Starfall Fun to Read, Read for fun, My WonderBooks - Readalong, Read Along - google<br>
 
-Rishaan has engaged in various home-based activities aimed at developing the ability to understand and respond to literature that is read aloud. This outcome focuses on building listening comprehension skills, which are essential for understanding and appreciating stories and other forms of literature.
+a) Listening Comprehension<br>
 
-Achievements
+Skill: Rishaan demonstrates understanding of literature read aloud.<br>
+Evidence: Rishaan engages attentively during read-aloud sessions and follows the storyline.<br>
+Example: Rishaan can retell the main events of a story and identify key characters and settings.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-a) Listening Comprehension
+b) Responding to Literature<br>
 
-Skill: Rishaan demonstrates understanding of literature read aloud.
-Evidence: Rishaan engages attentively during read-aloud sessions and follows the storyline.
-Example: Rishaan can retell the main events of a story and identify key characters and settings.
-Status: Working at expected level.
+After watching fighter jet videos, Lighting macqueen video/story<br>
+Skill: Rishaan responds appropriately to literature by asking questions and making comments.<br>
+Evidence: Rishaan participates actively in discussions about the story, expressing thoughts and opinions.<br>
+Example: Rishaan asks questions like, "Why lightning macqueen is so fast?" or comments, "I like F35 compared to F22 because it has Vertical take off and landing ability"<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-b) Responding to Literature
+c) Identifying Story Elements<br>
 
-Skill: Rishaan responds appropriately to literature by asking questions and making comments.
-Evidence: Rishaan participates actively in discussions about the story, expressing thoughts and opinions.
-Example: Rishaan asks questions like, "Why did the character do that?" or comments, "I like this part because..."
-Status: Working at expected level.
+Skill: Rishaan identifies key story elements such as characters, setting, and main events.<br>
+Evidence: Rishaan can describe who the main characters are, where the story takes place, and what happens in the beginning, middle, and end.<br>
+Example: Rishaan can point to pictures of characters and retell what they did in the story.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-c) Identifying Story Elements
+d) Making Connections<br>
 
-Skill: Rishaan identifies key story elements such as characters, setting, and main events.
-Evidence: Rishaan can describe who the main characters are, where the story takes place, and what happens in the beginning, middle, and end.
-Example: Rishaan can point to pictures of characters and retell what they did in the story.
-Status: Working at expected level.
+visit to fightejetmuseum and fighter jet videos<br>
+Skill: Rishaan makes connections between the story and personal experiences or other texts.<br>
+Evidence: Rishaan relates events in the story to real-life situations or other stories they have heard.<br>
+Example: Rishaan says, "Blue angel is a hornet" or "Hornet has single engine or could recognize twin engine jets"<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
-d) Making Connections
+e) Expressing Preferences<br>
 
-Skill: Rishaan makes connections between the story and personal experiences or other texts.
-Evidence: Rishaan relates events in the story to real-life situations or other stories they have heard.
-Example: Rishaan says, "That reminds me of when we went to the beach," or "This story is similar to another book we read."
-Status: Working at expected level.
-
-e) Expressing Preferences
-
-Skill: Rishaan expresses preferences for certain stories or parts of stories.
-Evidence: Rishaan shares likes and dislikes about characters, events, or themes in the story.
-Example: Rishaan says, "I really liked the part where..." or "I didn't like when..."
-Status: Working at expected level.
-
-Areas for Improvement
-
-Depth of Analysis
-
-Observation: Rishaan can deepen comprehension by analyzing story elements in more detail.
-Goal: Encourage Rishaan to ask more probing questions and provide deeper insights into character motivations and plot developments.
-
-Vocabulary Expansion
-
-Observation: Rishaan's responses could benefit from a broader vocabulary to express thoughts and feelings about literature.
-Goal: Introduce new vocabulary words during read-aloud sessions and encourage their use in discussions about the story.
-
-Recommendations
-
-Varied Read-Alouds: Provide a variety of literature, including fiction, non-fiction, poetry, and folktales, to expose Rishaan to different genres and themes.
-Guided Discussions: Engage in guided discussions before, during, and after reading to scaffold comprehension and encourage critical thinking.
-Story Retelling: Encourage Rishaan to retell stories in their own words, focusing on key story elements and sequencing events.
-Literature Response Journals: Introduce literature response journals where Rishaan can write or draw about their thoughts and feelings about the stories they hear.
-Vocabulary Activities: Incorporate vocabulary activities related to the stories read aloud, such as word hunts, word webs, or semantic maps. 
- 
+Skill: Rishaan expresses preferences for certain stories or parts of stories.<br>
+Evidence: Rishaan shares likes and dislikes about characters, events, or themes in the story.<br>
+Example: Rishaan says, "I really liked the part where..." or "I didn't like when..."<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
