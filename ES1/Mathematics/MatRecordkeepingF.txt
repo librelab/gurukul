@@ -555,7 +555,6 @@ b)Sequencing Events
 
 Skill: Rishaan sequences events in chronological order based on their occurrence.
 Evidence: Rishaan correctly orders events such as waking up, Brushing teeth, having breakfast, playing cricket, reading book, Writing practice, playing racing game in a typical daily routine/Rishaan correctly orders the different space shuttle orbiters along with the prototype orbiter.
-Evidence: 
 Example: Rishaan in a quiz time named 6 space shuttle orbiter namely Enterprise, Columbia, challenger, Discovery, Atlantis and Endeavour.
 Status: Working at expected level.
 
