@@ -16,9 +16,9 @@ PDe-1<br>
 
 Activity: Family Tree Project<br>
 
-	Example: Rishaan with some help created and recognised a family tree including parents, grandparents, and siblings.<br>
-	Observation: Rishaan showed interest in how family members are related and asked questions about their ages.<br>
-	${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
+Example: Rishaan with some help created and recognised a family tree including parents, grandparents, and siblings.<br>
+Observation: Rishaan showed interest in how family members are related and asked questions about their ages.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
 Activity: My Growth Chart<br>
 
