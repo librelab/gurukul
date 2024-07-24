@@ -22,15 +22,15 @@ ${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
 Activity: My Growth Chart<br>
 
-	Example: Rishaan looked at the images and compared how he is now and then.<br>
-	Observation: Rishaan was excited to see their growth over time and enjoyed looking at photos from different ages.<br>
-	${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
+Example: Rishaan looked at the images and compared how he is now and then.<br>
+Observation: Rishaan was excited to see their growth over time and enjoyed looking at photos from different ages.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 	
 Activity: Storytime with Growth Themes<br>
 
-	Example: Rishaan listened to stories about growth, like "The Very Hungry Caterpillar" by Eric Carle.<br>
-	Observation: Rishaan realised that every organisms grow, which involves recognising/learning what/how to eat, what gives energy, how to fly/walk, how to talk, different organs for different purposes.<br>
-	${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
+Example: Rishaan listened to stories about growth, like "The Very Hungry Caterpillar" by Eric Carle.<br>
+Observation: Rishaan realised that every organisms grow, which involves recognising/learning what/how to eat, what gives energy, how to fly/walk, how to talk, different organs for different purposes.<br>
+${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
 
 PDe-2<br>
