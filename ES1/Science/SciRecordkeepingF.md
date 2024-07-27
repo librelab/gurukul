@@ -34,7 +34,7 @@ ${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
 d) Data Collection<br>
 
-used stud finder to detect metals in each room and recorded data and found which room has greater no. of conceiled metal<br>
+Used stud finder to detect metals in each room and recorded data and found which room has greater no. of conceiled metal<br>
 Skill: Rishaan collects data accurately to support observations.<br>
 Evidence: Rishaan uses simple tools and methods to collect and record data.<br>
 Example: Rishaan collects data using stud finder to detect conceiled metals in each room and counts the total number of metals found in each room. <br>
@@ -42,7 +42,7 @@ ${\color{Red}Status: \ \color{green}Working \ at \ expected \ level}$<br>
 
 e) Communicating Ideas<br>
 
-USed laser guided stud finder to measure the fighter jet length and width logged the data to come to a conclusion <br>
+Used laser guided stud finder to measure the fighter jet length and width logged the data to come to a conclusion <br>
 Skill: Rishaan communicates ideas and findings clearly.<br>
 Evidence: Rishaan shares observations and data through drawings, charts, and verbal descriptions.<br>
 Example: Rishaan created a log of information with laser guided stud finder to measure the fighter jet length and came to a conclusion which jet is longer.<br>
