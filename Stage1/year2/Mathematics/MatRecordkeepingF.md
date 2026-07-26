@@ -8,11 +8,12 @@ ${\color{red}\text{Rishu's} \space Home \space Education \space Initiative}$
 Pushing the boundary<br>
 
 Mathematics Report
-------------------
+==================
 
 Overview
 Rishaan has participated in various Gurukul(Home-education) based activities which covers the outcomes in the KLA as outlined by NESA. Reports based on KLA is underlined below.
 
 
 MAO-WM-01<br>
-1** develops understanding and fluency in mathematics through exploring and connecting mathematical concepts, choosing and applying mathematical techniques to solve problems, and communicating their thinking and reasoning coherently and clearly**
+---------
+1 **develops understanding and fluency in mathematics through exploring and connecting mathematical concepts, choosing and applying mathematical techniques to solve problems, and communicating their thinking and reasoning coherently and clearly**
