@@ -7,8 +7,10 @@ ${\color{blue}Date: \space \color{green}20 \ July \ 2026}$<br>
 
 ${\color{red}\text{Rishu's} \space Home \space Education \space Initiative}$
 
+<!--Quoting Text using the below syntax -->
 > Pushing the boundary<br>
 
+<!--Header H1 format, an underline-ish style -->
 Mathematics Report
 ==================
 
