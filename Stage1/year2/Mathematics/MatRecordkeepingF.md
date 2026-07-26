@@ -19,5 +19,5 @@ Rishaan has participated in various Gurukul(Home-education) based activities whi
 
 
 MAO-WM-01<br>
----------
+------------
 1. **develops understanding and fluency in mathematics through exploring and connecting mathematical concepts, choosing and applying mathematical techniques to solve problems, and communicating their thinking and reasoning coherently and clearly**
