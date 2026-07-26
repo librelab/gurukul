@@ -5,7 +5,7 @@ ${\color{blue}Date: \space \color{green}20 \ July \ 2026}$<br>
 
 ${\color{red}\text{Rishu's} \space Home \space Education \space Initiative}$
 
-Pushing the boundary<br>
+> Pushing the boundary<br>
 
 Mathematics Report
 ==================
