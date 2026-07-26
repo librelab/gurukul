@@ -1,3 +1,5 @@
+<!--The Math Block Workaround(Best for Inline Text) Github supports LaTeX math formatting using $ delimiters. You can use the \color command to change text colors. -->
+
 ${\color{blue}Student \space Name: \space \color{green}Rishaan \space Pillai\color{orange}(HS/45317)}$<br>
 ${\color{blue}Stage: \space \color{green}Stage \space 1}$<br>
 ${\color{blue}Educator: \space \color{green}Parents(Priya \ and \ Ranjit)}$<br>
