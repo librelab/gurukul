@@ -1,0 +1,18 @@
+${\color{blue}Student \space Name: \space \color{green}Rishaan \space Pillai\color{orange}(HS/45317)}$<br>
+${\color{blue}Stage: \space \color{green}Stage \space 1}$<br>
+${\color{blue}Educator: \space \color{green}Parents(Priya \ and \ Ranjit)}$<br>
+${\color{blue}Date: \space \color{green}20 \ July \ 2026}$<br>
+
+${\color{red}\text{Rishu's} \space Home \space Education \space Initiative}$
+
+Pushing the boundary<br>
+
+Mathematics Report
+------------------
+
+Overview
+Rishaan has participated in various Gurukul(Home-education) based activities which covers the outcomes in the KLA as outlined by NESA. Reports based on KLA is underlined below.
+
+
+MAO-WM-01<br>
+1** develops understanding and fluency in mathematics through exploring and connecting mathematical concepts, choosing and applying mathematical techniques to solve problems, and communicating their thinking and reasoning coherently and clearly
