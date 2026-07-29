@@ -11,7 +11,7 @@ ${\color{red}\text{Rishu's} \space Home \space Education \space Initiative}$
 > Pushing the boundary<br>
 
 <!--Header H1 format, an underline-ish style -->
-Mathematics Report
+English Report
 ==================
 
 Overview
