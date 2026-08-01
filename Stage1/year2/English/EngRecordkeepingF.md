@@ -12,13 +12,14 @@ ${\color{red}\text{Rishu's} \space Home \space Education \space Initiative}$
 
 <img width="400" height="300" alt="IMG20250725110955-400" src="https://github.com/user-attachments/assets/3628a5d2-a717-4137-830e-8ad0cfc62b89" />
 
-
+<!--Alternatively, for H1 and H2, an underline-ish style -->
 English Report
 ==================
-
-Overview
+<!-- Alternatively using # for Headers -->
+#### Overview
 Rishaan has participated in various Gurukul(Home-education) based activities which covers the outcomes in the KLA as outlined by NESA. Reports based on KLA is underlined below.
 
+<!--Alternatively, for H1 and H2, an underline-ish style-->
 
 EN1-OLC-01<br>
 ------------
