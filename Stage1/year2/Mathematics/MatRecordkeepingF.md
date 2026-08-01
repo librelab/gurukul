@@ -43,17 +43,17 @@ MA1-RWN-01<br>
 ------------
 2. **applies an understanding of place value and the role of zero to read, write and order two- and three-digit numbers**
 
-Activity:
+#### Activity:
  The student explored place value using android app based base-ten blocks, dice, and household objects. He practised reading, writing, comparing, and ordering two- and three-digit numbers through games, counting collections, and everyday activities such as reading house numbers, prices, and page numbers.
  
-Example:	
+#### Example:	
  During a home learning activity, the student used number cards to make the numbers 205, 250, and 520. He correctly identified the hundreds, tens, and ones, explained the purpose of zero in each number, and arranged the numbers from smallest to largest.
  
-Observation:	
+#### Observation:	
  The student confidently reads, writes, and orders more than two- and three-digit numbers. He demonstrates an understanding of place value and recognises the role of zero as a placeholder. He uses mathematical language appropriately and completes number tasks with increasing accuracy and confidence.
  
-Status: 
- Working above expected level
+${\color{Red}Status:}$<br>
+${\color{Blue}Working \ above \ expected \ level}$<br>
 
 
 
