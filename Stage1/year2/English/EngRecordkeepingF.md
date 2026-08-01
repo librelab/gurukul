@@ -87,21 +87,21 @@ EN1-REFLUE-01<br>
 ${\color{Red}Status:}$<br>
 ${\color{green}Working \ at \ expected \ level}$<br>
 
-EN1-RECOM-01
-5 **comprehends independently read texts that require sustained reading by activating background and word knowledge, connecting and understanding sentences and
-whole text, and monitoring for meaning
+
+EN1-RECOM-01<br>
+5. **comprehends independently read texts that require sustained reading by activating background and word knowledge, connecting and understanding sentences and whole text, and monitoring for meaning**
  
- Activity	
+ #### Activity:
  Rishu is engaged in independent reading of a variety of fiction and non-fiction texts, including chapter books/graphical comics, information books, and articles. He used prior knowledge, discussed new vocabulary, answered comprehension questions, and retold key ideas to demonstrate understanding.
  
- Example
+ #### Example:
  While reading a non-fiction book about space, the student used his existing knowledge about planets to understand new information. He identified important facts like distance between planets and sun, planet surface composition, which planets are closer to earth, explained the meaning of unfamiliar words using context clues, and talks about/summarised the main ideas from the text.
  
- Observation	
+#### Observation:
  The student demonstrates growing independence when reading longer texts. He connects new information with prior knowledge, follows ideas across sentences and paragraphs, and checks his understanding while reading. He uses strategies such as rereading, questioning, and discussing the text to maintain meaning.
  
- Status: 
- Working at expected level
+${\color{Red}Status:}$<br>
+${\color{green}Working \ at \ expected \ level}$<br>
 
 
 EN1-CWT-01
