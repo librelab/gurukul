@@ -89,6 +89,7 @@ ${\color{green}Working \ at \ expected \ level}$<br>
 
 
 EN1-RECOM-01<br>
+---------------
 5. **comprehends independently read texts that require sustained reading by activating background and word knowledge, connecting and understanding sentences and whole text, and monitoring for meaning**
  
  #### Activity:
@@ -104,21 +105,22 @@ ${\color{Red}Status:}$<br>
 ${\color{green}Working \ at \ expected \ level}$<br>
 
 
-EN1-CWT-01
-6 **plans, creates and revises texts written for different purposes, including paragraphs, using knowledge of vocabulary, text features and sentence structure
+EN1-CWT-01<br>
+--------------
+6. **plans, creates and revises texts written for different purposes, including paragraphs, using knowledge of vocabulary, text features and sentence structure**
  
- Activity	
+#### Activity:
  The student participated in a range of Drawing/writing activities including imaginative stories, information reports, personal recounts, and simple persuasive texts. He planned his ideas using drawings, mind map then drafted and revised his writing by improving vocabulary.
  
- Example	
+#### Example:
  Rishu plans and draws about various topics like smart devices, Goget van usage, tries to label the content. He is able to take down notes of english dictation by listening to words and decoding the phonics. Uses capital letter after full stop. Able to figure out what is noun and use capital letter for noun. 
  
- Observation	
+#### Observation:
  The student is developing confidence in planning and creating texts for different purposes. He organises ideas into simple paragraphs, uses appropriate vocabulary, and applies knowledge of sentence structure and text features. He responds positively to feedback and makes improvements to his writing.
  
- Status: 
- Working slightly below expected level in writing.(Promote Independent writing)
-
+${\color{Red}Status:}$<br>
+${\color{yellow}Working \ slightly \ below \ expected \ level}$<br>
+(Promote Independent writing)
 
 EN1-SPELL-01
 7 **applies phonological, orthographic and morphological generalisations and strategies when spelling words in a range of writing contexts
