@@ -28,11 +28,11 @@ MAO-WM-01<br>
 #### Activity:
  The student participated in a variety of hands-on mathematical experiences during home learning. Activities included using LEGO, colored Wooden blocks and magnetic tiles to investigate patterns and shapes, measuring ingredients while cooking, estimating and comparing lengths during B2F initiative and helping out find out distance using laser tool of Stud finder, counting and sorting household objects, reading clocks and calendars, solving number puzzles, playing board games involving strategy and counting, and exploring fractions by sharing items bought. The student also applied mathematical thinking during bike rides by estimating distances and timing journeys using GPS apps.
 
-#### Example:<br>
+#### Example:
  While recording the warplane Rishaan was able to tell that some of the warplane's wingspan were double or larger when compared to others and some of the heavy bombers were called heavy by comparing the armaments section of other bombers.
  While measuring the model planes using laser tool of the stud finder and making a note of the length he was able to figure out which model plane was longer/shorter/medium in size.
 
-#### Observation:<br>
+#### Observation:
  The student confidently explored mathematical ideas across a range of everyday situations and demonstrated increasing fluency with number, measurement, geometry and problem-solving concepts. They selected appropriate strategies such as counting on, grouping, estimating, measuring and comparing to solve practical problems. Mathematical understanding continued to strengthen through regular investigations and meaningful real-life applications.
 
  ${\color{Red}Status:}$<br>
