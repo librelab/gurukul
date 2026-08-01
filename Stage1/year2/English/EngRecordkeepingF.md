@@ -173,4 +173,4 @@ EN1-UARL-01<br>
  The student demonstrates an understanding of how authors use structure and language choices to create meaning. He responds to literature by discussing ideas, characters, and themes, and applies similar features when creating his own texts. He is developing confidence in selecting words and text features that suit his purpose and audience.
  
 ${\color{Red}Status:}$<br>
-${\color{yellow}Working \ slightly \ below \ expected \ level}$<br>
+${\color{Dark yellow}Working \ slightly \ below \ expected \ level}$<br>
