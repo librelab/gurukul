@@ -122,51 +122,55 @@ ${\color{Red}Status:}$<br>
 ${\color{yellow}Working \ slightly \ below \ expected \ level}$<br>
 (Promote Independent writing)
 
-EN1-SPELL-01
-7 **applies phonological, orthographic and morphological generalisations and strategies when spelling words in a range of writing contexts
+EN1-SPELL-01<br>
+---------------
+7. **applies phonological, orthographic and morphological generalisations and strategies when spelling words in a range of writing contexts**
 
 
- Activity	
+#### Activity:
  The student participated in spelling activities(dictation), word sorting, spelling lists, reading, and independent writing tasks. He practised applying sound patterns, letter combinations, and word structures to spell familiar and unfamiliar words.
  
- Example
+#### Example:
  Rishaan during writing activity (dictation), used phonics knowledge to spell unfamiliar words by breaking/decoding them into sounds. He applied spelling patterns such as -ing, -ed when writing sentences. 
  
- Observation	
+#### Observation:	
  The student is developing confidence in applying spelling strategies across different writing contexts. He uses knowledge of sounds, letter patterns, and word parts to support spelling accuracy. He checks his spelling, recognises common spelling patterns, and attempts unfamiliar words using appropriate strategies.
  
-Status: 
- Working slightly below expected level in writing.(Promote Independent writing)
+${\color{Red}Status:}$<br>
+${\color{yellow}Working \ slightly \ below \ expected \ level}$<br> 
+ (Promote Independent writing)
 
 
-EN1-HANDW-01
-8 **uses a legible, fluent and automatic handwriting style, and digital technology, including word-processing applications, when creating texts
+EN1-HANDW-01<br>
+---------------
+8. **uses a legible, fluent and automatic handwriting style, and digital technology, including word-processing applications, when creating texts**
  
  
- Activity	
+#### Activity:
  The student practised handwriting through regular writing tasks, including takes notes from text books, copying passages.
  
- Example
+#### Example:
  During a writing acticity(by refering a text book), Rishaan uses clear and consistent handwriting. 
 
- Observation	
+#### Observation:	
  The student demonstrates developing fluency and control in handwriting. He forms letters clearly, maintains appropriate spacing, and produces writing that is easy to read. 
  
-Status: 
- Working slightly below expected level in writing.(Promote Independent writing)
+${\color{Red}Status:}$<br>
+${\color{yellow}Working \ slightly \ below \ expected \ level}$<br>
 
 
-EN1-UARL-01
-9 **understands and responds to literature by creating texts using similar structures, intentional language choices and features appropriateo audience and purpose
+EN1-UARL-01<br>
+--------------
+9. **understands and responds to literature by creating texts using similar structures, intentional language choices and features appropriateo audience and purpose**
  
- Activity	
+#### Activity:	
  The student explored a range of stories and picture books to identify how authors use text structures, characters, settings, descriptive language, and illustrations to communicate ideas. He created his own texts by applying similar structures and language features for different purposes.
  
- Example
+#### Example:
  After listening and watching a small home automation setup using Tapo button, smart plug, hub and a camera, Rishaan drew pictures with labelling the components.  
 
- Observation	
+#### Observation:
  The student demonstrates an understanding of how authors use structure and language choices to create meaning. He responds to literature by discussing ideas, characters, and themes, and applies similar features when creating his own texts. He is developing confidence in selecting words and text features that suit his purpose and audience.
  
-Status: 
- Working slightly below expected level in writing.(Promote Independent writing)
+${\color{Red}Status:}$<br>
+${\color{yellow}Working \ slightly \ below \ expected \ level}$<br>
