@@ -25,7 +25,7 @@ MAO-WM-01<br>
 ------------
 1. **develops understanding and fluency in mathematics through exploring and connecting mathematical concepts, choosing and applying mathematical techniques to solve problems, and communicating their thinking and reasoning coherently and clearly**
 
-#### Activity:<br>
+#### Activity:
  The student participated in a variety of hands-on mathematical experiences during home learning. Activities included using LEGO, colored Wooden blocks and magnetic tiles to investigate patterns and shapes, measuring ingredients while cooking, estimating and comparing lengths during B2F initiative and helping out find out distance using laser tool of Stud finder, counting and sorting household objects, reading clocks and calendars, solving number puzzles, playing board games involving strategy and counting, and exploring fractions by sharing items bought. The student also applied mathematical thinking during bike rides by estimating distances and timing journeys using GPS apps.
 
 #### Example:<br>
@@ -39,10 +39,11 @@ MAO-WM-01<br>
  ${\color{Blue}Working \ above \ expected \ level}$<br>
  
 
-MA1-RWN-01
-2** applies an understanding of place value and the role of zero to read, write and order two- and three-digit numbers
+MA1-RWN-01<br>
+------------
+2 **applies an understanding of place value and the role of zero to read, write and order two- and three-digit numbers**
 
-Activity:	- app based
+Activity:
  The student explored place value using android app based base-ten blocks, dice, and household objects. He practised reading, writing, comparing, and ordering two- and three-digit numbers through games, counting collections, and everyday activities such as reading house numbers, prices, and page numbers.
  
 Example:	
