@@ -10,6 +10,9 @@ ${\color{red}\text{Rishu's} \space Home \space Education \space Initiative}$
 <!--Quoting Text using the below syntax -->
 > Pushing the boundary<br>
 
+<img width="600" height="149" alt="github-supertux-600" src="https://github.com/user-attachments/assets/2920c182-84db-483d-902a-a4a60e80ccdc" />
+
+
 <!--Header H1 format, an underline-ish style -->
 Mathematics Report
 ==================
