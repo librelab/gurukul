@@ -35,9 +35,8 @@ MAO-WM-01<br>
 #### Observation:<br>
  The student confidently explored mathematical ideas across a range of everyday situations and demonstrated increasing fluency with number, measurement, geometry and problem-solving concepts. They selected appropriate strategies such as counting on, grouping, estimating, measuring and comparing to solve practical problems. Mathematical understanding continued to strengthen through regular investigations and meaningful real-life applications.
 
-#### ${\color{Red}Status:}$<br>
+ ${\color{Red}Status:}$
  ${\color{Blue}Working \ above \ expected \ level}$<br>
- Working above expected level
  
 
 MA1-RWN-01
