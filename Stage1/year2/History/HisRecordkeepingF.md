@@ -3,7 +3,7 @@
 ${\color{blue}Student \space Name: \space \color{green}Rishaan \space Pillai\color{orange}(HS/45317)}$<br>
 ${\color{blue}Stage: \space \color{green}Stage \space 1}$<br>
 ${\color{blue}Educator: \space \color{green}Parents(Priya \ and \ Ranjit)}$<br>
-${\color{blue}Date: \space \color{green}1 \ AAug \ 2026}$<br>
+${\color{blue}Date: \space \color{green}1 \ Aug \ 2026}$<br>
 
 ${\color{red}\text{Rishu's} \space Home \space Education \space Initiative}$
 
