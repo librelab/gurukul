@@ -1,37 +1,49 @@
- # Geography Activity Outcome Date and comments
- 
+# Geography Activity Outcome Activity Example and Status 
  ##Code
  ##Outcome
  ##Activity
- ##Date/Comment
+ ##Example
+ ##Observation
+ ##Status
  
   ===================================================
   
- Geography - stage 1 - year 2
-  
+Geography
+
  ##Code
  GE1-1
  ##Outcome
- Describes features of places and the connections people have with places 
- ##Activity
- ##Date/Comment
+ Describes features of places and the connections people have with places
+ ##Example
+ ##Observation
+ ##Status
  
- -------------------------------------------------------
- 
+-------------------------------------------------------- 
+
  ##Code
  GE1-2
  ##Outcome
  Identifies ways in which people interact with and care for places 
- ##Activity
- ##Date/Comment
- 
- -------------------------------------------------------
- 
+ ##Example
+ ##Observation
+ ##Status 
+-------------------------------------------------------- 
+
  ##Code
  GE1-3
  ##Outcome
- Commnnicates geographical information and uses geographical tool for inquiry. 
- ##Activity
- ##Date/Comment
+ Commnnicates geographical information and uses geographical tool for inquiry.
+ ##Example
+ ##Observation
+ ##Status 
+-------------------------------------------------------- 
  
- -------------------------------------------------------
+ ##Code
+ MA1-CSQ-01
+ ##Outcome
+ uses number bonds and the relationship between addition and subtraction to solve problems involving partitioning
+ ##Example
+ ##Observation
+ ##Status
+ 
+-------------------------------------------------------- 
