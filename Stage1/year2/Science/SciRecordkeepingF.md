@@ -72,20 +72,21 @@ ${\color{Red}Status:}$<br>
 ${\color{green}Working \ at \ expected \ level}$<br>
 
 
-ST1-4LW-S 
-4 **describes observable features of living things and their environments 
+ST1-4LW-S<br>
+--------------
+4. **describes observable features of living things and their environments**
 
-Activity	
+#### Activity:
  The student explored living things through nature walks, observing plants and animals, caring for a home garden, and researching different habitats. He identified and recorded observable features of living things and discussed how these features help them survive in their environments.
  
-Example	
+#### Example.
  In our B2F initiative, Rishaan ecounters different living organisms like slug, snail talks about the difference and trail it leaves behind. Explains how ladybug is a natures way to deal with aphids. Collects feather of birds and name the bird, collects dry leaf. Grows plant from seeds and collects sea shells 
  
-Observation	
+#### Observation.
  The student demonstrates curiosity and understanding when investigating living things. He can identify and describe visible features of plants and animals and compare how different living things are suited to their environments. He uses observations, drawings, and simple explanations to communicate his ideas.
  
-Status: 
- Working at expected level
+${\color{Red}Status:}$<br>
+${\color{green}Working \ at \ expected \ level}$<br>
 
 
 
