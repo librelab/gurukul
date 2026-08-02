@@ -10,6 +10,8 @@ ${\color{red}\text{Rishu's} \space Home \space Education \space Initiative}$
 <!--Quoting Text using the below syntax -->
 > Pushing the boundary<br>
 
+<img width="300" height="188" alt="Screenshot 2026-08-01 144850-600" src="https://github.com/user-attachments/assets/9d46edea-6347-4657-9dbb-29cee84873bd" />
+
 
 Geography Report
 ==================
