@@ -1,46 +1,49 @@
- # History Activity Outcome Date and comments
- 
+# History Activity Outcome Activity Example and Status 
  ##Code
  ##Outcome
  ##Activity
- ##Date/Comment
+ ##Example
+ ##Observation
+ ##Status
  
   ===================================================
-
-History - Stage 1 - Year 2
+  
+History
 
  ##Code
  HT1-1
  ##Outcome
  communicates an understanding of change and continuity in family life using appropriate historical terms
- ##Activity
- ##Date/Comment
+ ##Example
+ ##Observation
+ ##Status
  
- ----------------------------------------------------
- 
+-------------------------------------------------------- 
+
  ##Code
  HT1-2
  ##Outcome
  identifies and describes significant people, events, places and sites in the local community over time
- ##Activity
- ##Date/Comment
- 
- ----------------------------------------------------
+ ##Example
+ ##Observation
+ ##Status 
+-------------------------------------------------------- 
 
  ##Code
  HT1-3
  ##Outcome
- describes the effects of changing technology on people's lives over time 
- ##Activity
- ##Date/Comment
+  describes the effects of changing technology on people's lives over time 
+ ##Example
+ ##Observation
+ ##Status 
+-------------------------------------------------------- 
  
- ----------------------------------------------------
-
  ##Code
  HT1-4
  ##Outcome
  demonstrates skills of historical inquiry and communication.
- ##Activity
- ##Date/Comment
+ ##Example
+ ##Observation
+ ##Status
  
- ----------------------------------------------------
+-------------------------------------------------------- 
