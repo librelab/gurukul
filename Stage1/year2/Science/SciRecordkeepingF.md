@@ -90,114 +90,119 @@ ${\color{green}Working \ at \ expected \ level}$<br>
 
 
 
-ST1-5LW-T
-5 **identifies how plants and animals are used for food and fibre products 
+ST1-5LW-T<br>
+-------------
+5. **identifies how plants and animals are used for food and fibre products**
 
-Activity	
+#### Activity:
  The student explored how plants and animals provide resources used by people. He investigated different foods and fibre products through gardening activities, cooking experiences, and research activities about farming, crops, and animal products.
  
-Example
+#### Example:
  Just a casual interaction about food and clothing, Rishaan understands that paper, bread comes from plant. Leather comes from animal. There are plant based milk like soya Milk and cow's milk. 
  Sheep provides wool for clothing. Cotton plants are used to make fabric.
  
-Observation	
+#### Observation:
  The student can identify a range of products that come from plants and animals. He understands that living things provide resources for food and materials and can describe simple connections between farms, natural resources, and everyday products.
  
-Status: 
- Working at expected level
+${\color{Red}Status:}$<br>
+${\color{green}Working \ at \ expected \ level}$<br>
 
 
-ST1-6MS-S 
-6 **identifies that materials can be changed or combined 
+ST1-6MS-S<br>
+-------------
+6. **identifies that materials can be changed or combined**
 
-Activity	
+#### Activity:	
  The student explored different materials through hands-on investigations involving changing and combining materials. He participated in activities such as mixing substances, building models, cooking, folding, cutting, and joining materials to observe how their properties can be altered.
  
-Example	
+#### Example:	
  During a cooking activity, Rishu combined flour, chocolate powder, water, and other ingredients to create dough. He observed how mixing the materials changed their texture and form. He also explored joining materials such as paper, cardboard, and tape to create a simple structure.
  
-Observation	
+#### Observation:	
  The student demonstrates an understanding that materials can be changed through actions such as heating, cooling, mixing, shaping, and combining. He observes changes carefully, compares materials before and after changes, and explains his findings using simple scientific language.
  
-Status: 
- Working at expected level
+${\color{Red}Status:}$<br>
+${\color{green}Working \ at \ expected \ level}$<br>
 
 
-ST1-7MW-T
-7 **describes how the properties of materials determine their use 
+ST1-7MW-T<br>
+-------------
+7. **describes how the properties of materials determine their use**
 
-Activity	
+#### Activity:	
  The student investigated different materials and their properties through practical activities involving everyday objects. He explored characteristics such as strength, flexibility, waterproofing, texture, and absorbency, and discussed why particular materials are chosen for specific purposes.
  
-Example	
+#### Example:	
  During a materials investigation, Rishaan compared paper, plastic, wood, and metal objects. He tested which materials were waterproof and strong enough for different uses, then explained why plastic is used for raincoats and containers, while metal is used for tools and structures.
  
-Observation	
+#### Observation:	
  The student identifies and describes observable properties of different materials. He understands that the properties of a material influence how it is used and can explain simple reasons why certain materials are suitable for particular objects. He makes observations, records results, and compares materials during investigations.
  
-Status: 
- Working at expected level
+${\color{Red}Status:}$<br>
+${\color{green}Working \ at \ expected \ level}$<br>
 
-
-ST1-8PW-S 
-8 **describes common forms of energy and explores some characteristics of sound energy
+ST1-8PW-S<br>
+------------- 
+8. **describes common forms of energy and explores some characteristics of sound energy**
  
-Activity	
+#### Activity:	
  The student explored different forms of energy through practical investigations and everyday examples. He investigated sound energy using musical instruments, vibrations, and sound-making objects, and discussed other forms of energy such as light, heat, electrical, and movement energy.
  
-Example	
+#### Example:	
  While reading about solar system, Rishaan came to know about nuclear fusion which is what makes sun emit energy and how nuclear fission helps generate energy in our nuclear power plants. He also tries to create different sound by placing different steel utensils. 
  
-Observation	
+#### Observation:	
  The student identifies common forms of energy and describes examples of how energy is used in everyday life. He understands that sound is produced by vibrations and can describe characteristics of sound such as loudness and pitch through practical experiences. He communicates his observations using drawings, discussions, and simple explanations.
  
-Status: 
- Working at expected level
+${\color{Red}Status:}$<br>
+${\color{green}Working \ at \ expected \ level}$<br>
 
-
-ST1-9PW-ST
-9 **investigates how forces and energy are used in products
+ST1-9PW-ST<br>
+-------------
+9. **investigates how forces and energy are used in products**
  
-Activity	
+#### Activity:	
  The student explored how forces and energy are used in everyday products through hands-on investigations, building activities, and observations of simple machines and devices. He investigated how pushing, pulling, lifting, sliding, rolling, and energy sources help products perform specific functions.
  
-Example	
+#### Example:	
  During our play session, Rishaan explored how hotwheel cars travel on a handmade ramp and how to use ratchet spanner. He tested out the battery power if its low, it doesn't provide enough energyto power electronic toys or torch.
  
-Observation	
+#### Observation:	
  The student demonstrates an understanding that forces and energy help products work. He can identify examples of forces used in everyday objects and describe how energy sources allow products to move, operate, or perform tasks. He makes observations, compares results, and communicates his ideas using drawings and explanations.
  
-Status: 
- Working at expected level
+${\color{Red}Status:}$<br>
+${\color{green}Working \ at \ expected \ level}$<br>
+
+ST1-10ES-S<br>
+-------------- 
+10. **recognises observable changes occurring in the sky and on the land and identifies Earth's resources**
 
 
-ST1-10ES-S 
-10 **recognises observable changes occurring in the sky and on the land and identifies Earth's resources 
-
-
-Activity	
+#### Activity:	
  The student explored changes in the sky and on the land through weather observations, outdoor investigations, seasonal activities, and discussions about Earth's natural resources. Investigated how resources such as water, soil, plants, and minerals are used by people.
  
-Example
+#### Example:
  Is able to experience and describe the change in season - 4 seasons which season effects plants and how the temperature changes. When the front yard grass grows faster. He also identifies water is a natural resource essential for both plants and animals which is finite and should be saved. 
  
-Observation	
+#### Observation:	
  The student recognises observable changes in the sky, including changes in weather, clouds, the Sun, and the Moon. He can describe changes occurring in the local environment and identifies a range of Earth's resources used in everyday life. He communicates observations through drawings and discussions.
  
-Status: 
- Working at expected level
+${\color{Red}Status:}$<br>
+${\color{green}Working \ at \ expected \ level}$<br>
 
-ST1-11DI-T
-11 **identifies the components of digital systems and explores how data is represented
 
-Activity	
+ST1-11DI-T<br>
+--------------
+11. **identifies the components of digital systems and explores how data is represented**
+
+#### Activity:	
  The student explored different digital systems and identified the parts that work together, including hardware, software, input devices, output devices, and storage. He investigated how digital devices collect, process, store, and display information through hands-on activities using computers, tablets, and simple coding tools.
  
-Example	
+#### Example:
  At the time of setting up Raspberry Pi 5, Rishaan identified components such as monitor, keyboard, mouse, screen and the SBC. He explored how to text, images and sounds are represented digitallly and created a simple presentation using pictures, words.
  
-Observation	
+#### Observation:	
  The student demonstrates an understanding that digital systems are made up of connected components that work together. He can identify common digital devices and explain their basic functions. He is developing an understanding that data can be represented in different forms, including text, images, numbers, and sounds.
  
-Status: 
- Working at expected level
+${\color{Red}Status:}$<br>
+${\color{green}Working \ at \ expected \ level}$<br>
