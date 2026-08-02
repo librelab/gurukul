@@ -54,36 +54,35 @@ ${\color{Red}Status:}$<br>
 ${\color{green}Working \ at \ expected \ level}$<br>
 
 
-HT1-3
-3. **describes the effects of changing technology on people's lives over time 
+HT1-3<br>
+----------
+3. **describes the effects of changing technology on people's lives over time**
 
-Activity:
+#### Activity:
  The student explored how technology has changed over time by comparing old and modern household items, communication devices, transport, and everyday tools. He used books, photographs, videos, and discussions to investigate how technology has improved daily life.
  
-Example:	
+#### Example:	
  Rishaan compared walkie talkie and modern smartphone. He identified differences in their features eventhough both of them uses radio technology. He likes to watch the  video of "evolution of planes" in which he could enumerate jets name and compare the mach speed of some of the figter jets.
  
-Observation:
+#### Observation:
  The student demonstrates an understanding that technology changes over time and influences the way people live, work, travel, and communicate. He can identify examples of older and newer technologies and describe how these changes have made everyday tasks easier and more efficient.
  
-Status: 
- Working at expected level
+${\color{Red}Status:}$<br>
+${\color{green}Working \ at \ expected \ level}$<br>
  
-----------------------------------------------------
 
-HT1-4
-4. **demonstrates skills of historical inquiry and communication.
+HT1-4<br>
+----------
+4. **demonstrates skills of historical inquiry and communication**
  
-Activity:
+#### Activity:
  The student participated in historical inquiry activities by asking questions, examining photographs, artefacts, timelines, and simple historical sources. He organised information and shared his learning through discussions, drawings, timelines, and written work.
  
-Example:	
+#### Example:	
  Rishaan got involved in collecting history of WW2 warplanes from different countries. He patiently wrote the features of warplane from the text book, took photos and helped in developing the photo, label each photos and timestamp the event. 
  
-Observation:
+#### Observation:
  The student demonstrates curiosity about the past by asking relevant questions and gathering information from a range of sources. He organises ideas logically and communicates his historical understanding clearly using appropriate historical terms, drawings, and written responses.
  
-Status: 
- Working at expected level
- 
-------------------------------------------------------------
+${\color{Red}Status:}$<br>
+${\color{green}Working \ at \ expected \ level}$<br> 
