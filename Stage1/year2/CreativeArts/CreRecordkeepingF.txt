@@ -130,8 +130,6 @@ MUS1.3
  
  Not implemented 
  
- The student created a simple rhythm chart using symbols such as dots, lines, and shapes to represent claps, taps, and pauses. He followed the pattern to perform the rhythm on a percussion instrument and created his own symbol sequence for a short musical idea.
- 
  Observation	
  The student demonstrates an understanding that symbols can be used to communicate musical ideas. He uses simple notation systems to represent rhythm and sound patterns and can interpret basic visual representations during musical activities. He enjoys creating his own symbols to record and share musical ideas.
  
@@ -221,16 +219,13 @@ DRAS1.4
  The student participated in creating, performing, and viewing drama activities including role-play, improvisation, storytelling, and puppet performances. He discussed his own dramatic work and responded to the performances of others by sharing ideas, observations, and personal opinions.
  
  Example	
- Sonic model performance 
- 
- After performing a short drama based on a familiar story, the student reflected on his character, use of voice, movement, and expression. While watching another performance, he identified what he enjoyed and explained how the performers used actions and dialogue to communicate the story.
+ Not Implemented 
  
  Observation	
  The student demonstrates appreciation for drama by recognising the effort and creativity involved in making performances. He reflects on his own work, listens respectfully to others’ performances, and identifies how characters, actions, voice, and movement contribute to dramatic meaning.
  
- Assessment	
- The student is achieving the Stage 1 expectations for DRAS1.4. He demonstrates the ability to appreciate and respond to dramatic works, including his own creations and those of others. Continued opportunities to perform, view, discuss, and reflect on drama experiences will further develop his confidence, creativity, and understanding of dramatic expression.
-
+ Status: 
+ Working below expected level
 ---------------------------------------------------------------------------------
 
 Dance
@@ -246,14 +241,11 @@ DAS1.1
  
  Not implemented
  
- The student performed a short dance sequence to music that included travelling movements across space, changing directions, balancing poses, and expressive arm movements. He adjusted his movements to match the rhythm, tempo, and mood of the music.
- 
  Observation	
  The student demonstrates increasing control, coordination, and confidence when performing dance movements. He uses body movements, facial expressions, and energy to communicate ideas and feelings. He responds to music and combines different locomotor and non-locomotor movements to create expressive dance sequences.
  
- Assessment	
- The student is achieving the Stage 1 expectations for DAS1.1. He demonstrates the ability to perform dances using a variety of movement skills with expression and control. Continued opportunities for creative movement, structured dance activities, and performances will further develop his coordination, confidence, and artistic expression.
-
+ Status: 
+ Working below expected level
 ---------------------------------------------------------
 
 DAS1.2
@@ -266,14 +258,12 @@ DAS1.2
  
  Not impemented 
  
- The student created a short dance sequence inspired by nature, using slow movements to represent a gentle breeze and faster movements to represent a storm. He changed his body shapes, direction, speed, and energy to show different moods and ideas through movement.
- 
  Observation	
  The student demonstrates creativity when exploring and selecting movements for dance. He uses body movements, levels, pathways, and changes in energy to communicate feelings and ideas. He makes choices about movement and responds thoughtfully to music and creative prompts.
  
- Assessment	
- The student is achieving the Stage 1 expectations for DAS1.2. He demonstrates the ability to explore and select dance movements to express ideas, feelings, and moods. Continued opportunities to create, perform, and reflect on dance sequences will further develop his creativity, movement vocabulary, and confidence in dance expression.
-
+ Status: 
+ Working below expected level
+ 
 --------------------------------------------------------------
 
 DAS1.3
@@ -284,16 +274,14 @@ DAS1.3
  
  Example	
  
- Sonic song with fight 
- 
- After watching a cultural dance performance, the student described what he noticed about the movements, rhythm, costumes, and music. He explained that the dance was used to celebrate traditions and shared what parts of the performance he enjoyed and why.
+ Not Implemented
  
  Observation	
  The student expresses personal opinions about dances and can describe features that influence his responses. He recognises that dances can have different purposes, such as storytelling, celebration, cultural expression, or entertainment. He listens respectfully to others’ opinions and shares his own ideas clearly.
  
- Assessment	
- The student is achieving the Stage 1 expectations for DAS1.3. He demonstrates the ability to respond to and discuss dances by expressing personal preferences and identifying their purposes. Continued opportunities to view, perform, and discuss a variety of dance styles will further develop his appreciation and understanding of dance as a form of communication.
-
+ Status: 
+ Working below expected level
+ 
 
 --------------------------------------------------
 
@@ -307,10 +295,10 @@ DAS1.7
  
  Performed simple dance movement by listening to music and moving the body rhythmicaly and passing balls to each other. 
  
- The student performed a short dance sequence that included walking, skipping, jumping, turning, and balancing movements. He followed a simple pattern of movements in time with music and repeated sections of the sequence with increasing confidence and coordination.
+ Rishaan performed simple dance movement by listening to music and moving the body rhythmicaly and passing balls to each other in a game called "don't let the ball drop". 
  
  Observation	
  The student demonstrates developing control and coordination when performing dance sequences. He can remember and repeat simple movement patterns, combine different movement skills, and adjust his movements to match rhythm, space, and timing. He participates enthusiastically and expresses creativity through movement.
  
- Assessment	
- The student is achieving the Stage 1 expectations for DAS1.7. He demonstrates the ability to perform simple dance sequences using basic movement skills and patterns. Continued opportunities for practising choreography, creative movement, and performance will further develop his confidence, coordination, musical awareness, and expressive skills.
+ Status: 
+ Working at expected level
